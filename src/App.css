@@ -386,23 +386,23 @@ main {
 }
 
 .texas-map path.map-bucket-0 {
-  fill: #c81e2b;
+  fill: #050505;
 }
 
 .texas-map path.map-bucket-1 {
-  fill: #b71a25;
+  fill: #180305;
 }
 
 .texas-map path.map-bucket-2 {
-  fill: #a31521;
+  fill: #2c0509;
 }
 
 .texas-map path.map-bucket-3 {
-  fill: #8f121d;
+  fill: #40080d;
 }
 
 .texas-map path.map-bucket-4 {
-  fill: #7b1019;
+  fill: #530a11;
 }
 
 .texas-map path.map-bucket-5 {
@@ -410,23 +410,23 @@ main {
 }
 
 .texas-map path.map-bucket-6 {
-  fill: #530a11;
+  fill: #7b1019;
 }
 
 .texas-map path.map-bucket-7 {
-  fill: #40080d;
+  fill: #8f121d;
 }
 
 .texas-map path.map-bucket-8 {
-  fill: #2c0509;
+  fill: #a31521;
 }
 
 .texas-map path.map-bucket-9 {
-  fill: #180305;
+  fill: #b71a25;
 }
 
 .texas-map path.map-bucket-10plus {
-  fill: #050505;
+  fill: #c81e2b;
 }
 
 .texas-map path.is-selected {
@@ -481,23 +481,23 @@ main {
 }
 
 .legend-swatch.map-bucket-0 {
-  background: #c81e2b;
+  background: #050505;
 }
 
 .legend-swatch.map-bucket-1 {
-  background: #b71a25;
+  background: #180305;
 }
 
 .legend-swatch.map-bucket-2 {
-  background: #a31521;
+  background: #2c0509;
 }
 
 .legend-swatch.map-bucket-3 {
-  background: #8f121d;
+  background: #40080d;
 }
 
 .legend-swatch.map-bucket-4 {
-  background: #7b1019;
+  background: #530a11;
 }
 
 .legend-swatch.map-bucket-5 {
@@ -505,23 +505,23 @@ main {
 }
 
 .legend-swatch.map-bucket-6 {
-  background: #530a11;
+  background: #7b1019;
 }
 
 .legend-swatch.map-bucket-7 {
-  background: #40080d;
+  background: #8f121d;
 }
 
 .legend-swatch.map-bucket-8 {
-  background: #2c0509;
+  background: #a31521;
 }
 
 .legend-swatch.map-bucket-9 {
-  background: #180305;
+  background: #b71a25;
 }
 
 .legend-swatch.map-bucket-10plus {
-  background: #050505;
+  background: #c81e2b;
 }
 
 .legend-swatch.is-selected {
