@@ -10,8 +10,15 @@ const TexasMap = ({ countyCounts, selectedCounty, onSelect }) => {
 
   const countyClassMap = useMemo(() => {
     const map = {};
+    const getBucket = (count) => {
+      if (count === 0) return 'map-bucket-none';
+      if (count <= 2) return 'map-bucket-scarce';
+      if (count <= 9) return 'map-bucket-low';
+      return 'map-bucket-concentrated';
+    };
+
     Object.keys(countyCounts).forEach((county) => {
-      map[county] = countyCounts[county] > 0 ? 'has-schools' : 'no-schools';
+      map[county] = getBucket(countyCounts[county]);
     });
     return map;
   }, [countyCounts]);
@@ -24,7 +31,13 @@ const TexasMap = ({ countyCounts, selectedCounty, onSelect }) => {
       const county = path.getAttribute('id');
       if (!county) return;
       const baseClass = countyClassMap[county] || 'no-schools';
-      path.classList.remove('has-schools', 'no-schools', 'is-selected');
+      path.classList.remove(
+        'map-bucket-none',
+        'map-bucket-scarce',
+        'map-bucket-low',
+        'map-bucket-concentrated',
+        'is-selected'
+      );
       path.classList.add(baseClass);
       if (county === selectedCounty) {
         path.classList.add('is-selected');
@@ -69,16 +82,24 @@ const TexasMap = ({ countyCounts, selectedCounty, onSelect }) => {
         onMouseMove={handleMove}
         onMouseLeave={handleLeave}
       >
-        <TexasSvg className="texas-map" aria-label="Texas county voucher map" role="img" />
+        <TexasSvg className="texas-map" aria-label="Texas county voucher access map" role="img" />
       </div>
       <div className="map-legend">
         <div className="legend-item">
-          <span className="legend-swatch no-schools" />
-          Zero voucher schools
+          <span className="legend-swatch map-bucket-none" />
+          Zero schools accepting vouchers
         </div>
         <div className="legend-item">
-          <span className="legend-swatch has-schools" />
-          Schools accepting vouchers
+          <span className="legend-swatch map-bucket-scarce" />
+          1-2 schools accepting vouchers
+        </div>
+        <div className="legend-item">
+          <span className="legend-swatch map-bucket-low" />
+          3-9 schools accepting vouchers
+        </div>
+        <div className="legend-item">
+          <span className="legend-swatch map-bucket-concentrated" />
+          10+ schools accepting vouchers
         </div>
         <div className="legend-item">
           <span className="legend-swatch is-selected" />

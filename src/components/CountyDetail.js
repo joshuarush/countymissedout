@@ -1,6 +1,6 @@
 import React, { useEffect, useMemo, useState } from 'react';
 
-const CountyDetail = ({ county, schools, privateCount }) => {
+const CountyDetail = ({ county, schools, privateCount, neighborCounty, neighborCount, rankInfo }) => {
   const [showSchools, setShowSchools] = useState(false);
   const [showAll, setShowAll] = useState(false);
 
@@ -21,7 +21,7 @@ const CountyDetail = ({ county, schools, privateCount }) => {
       <div className="county-detail empty">
         <h2>Select a county to see the truth.</h2>
         <p>
-          We checked every participating voucher school in Texas. Most counties were left out.
+          We checked every school accepting vouchers in Texas. Most counties were left out.
         </p>
       </div>
     );
@@ -31,6 +31,7 @@ const CountyDetail = ({ county, schools, privateCount }) => {
   const hasSchools = count > 0;
   const hasPrivateData = Number.isFinite(privateCount);
   const hasPrivateSchools = hasPrivateData && privateCount > 0;
+  const hasNeighbor = Boolean(neighborCounty);
 
   let privateSummary = null;
   if (hasPrivateData) {
@@ -78,6 +79,26 @@ const CountyDetail = ({ county, schools, privateCount }) => {
     }
   }
 
+  let neighborSummary = null;
+  if (hasNeighbor && Number.isFinite(neighborCount)) {
+    if (neighborCount > count) {
+      neighborSummary = `Nearby ${neighborCounty} County has ${neighborCount} schools accepting vouchers — ${neighborCount - count} more than here.`;
+    } else if (neighborCount < count) {
+      neighborSummary = `Nearby ${neighborCounty} County has only ${neighborCount} schools accepting vouchers. Families outside this county are shut out.`;
+    } else {
+      neighborSummary = `Nearby ${neighborCounty} County has the same number of schools accepting vouchers. No extra options across the county line.`;
+    }
+  }
+
+  let rankSummary = null;
+  if (rankInfo) {
+    if (rankInfo.topPercent <= 15) {
+      rankSummary = `Top ${rankInfo.topPercent}% for voucher access — proof the program is concentrated in a handful of counties.`;
+    } else {
+      rankSummary = `Bottom ${rankInfo.bottomPercent}% for voucher access statewide.`;
+    }
+  }
+
   return (
     <div className="county-detail">
       <div className={`county-status ${hasSchools ? 'has-schools' : 'no-schools'}`}>
@@ -96,6 +117,12 @@ const CountyDetail = ({ county, schools, privateCount }) => {
           <p className="private-metric">{privateSummary.primary}</p>
           {privateSummary.secondary && <p className="private-secondary">{privateSummary.secondary}</p>}
           <p className="private-note">Private school counts come from accredited private school listings.</p>
+        </div>
+      )}
+      {(neighborSummary || rankSummary) && (
+        <div className="comparison-meta">
+          {rankSummary && <p className="comparison-line">{rankSummary}</p>}
+          {neighborSummary && <p className="comparison-line">{neighborSummary}</p>}
         </div>
       )}
       {hasSchools && (

@@ -12,6 +12,7 @@ import Footer from './components/Footer';
 import schoolsByCounty from './data/schools-by-county.json';
 import texasCounties from './data/texas-counties.json';
 import privateSchoolsByCounty from './data/private-schools-by-county.json';
+import countyNeighbors from './data/texas-county-neighbors.json';
 
 const App = () => {
   const [selectedCounty, setSelectedCounty] = useState(null);
@@ -34,6 +35,26 @@ const App = () => {
 
   const countiesWithout = texasCounties.length - countiesWithSchools;
 
+  const countyRanks = useMemo(() => {
+    const entries = texasCounties.map((county) => ({
+      county,
+      count: countyCounts[county] || 0
+    }));
+    const sorted = [...entries].sort((a, b) => a.count - b.count);
+    const total = sorted.length;
+    const rankMap = {};
+    sorted.forEach((entry, index) => {
+      const bottomPercent = Math.max(1, Math.round(((index + 1) / total) * 100));
+      const topPercent = Math.max(1, Math.round(((total - index) / total) * 100));
+      rankMap[entry.county] = {
+        count: entry.count,
+        bottomPercent,
+        topPercent
+      };
+    });
+    return rankMap;
+  }, [countyCounts]);
+
   const metroShare = useMemo(() => {
     const metroRegions = new Set([
       'Houston Area',
@@ -54,15 +75,15 @@ const App = () => {
 
   const stats = [
     {
-      label: 'Counties with zero voucher schools',
+      label: 'Counties with zero schools accepting vouchers',
       value: countiesWithout
     },
     {
-      label: 'Counties with any voucher schools',
+      label: 'Counties with any schools accepting vouchers',
       value: countiesWithSchools
     },
     {
-      label: 'Voucher schools statewide',
+      label: 'Schools accepting vouchers statewide',
       value: totalSchools
     },
     {
@@ -74,6 +95,9 @@ const App = () => {
 
   const selectedSchools = selectedCounty ? schoolsByCounty[selectedCounty] || [] : [];
   const selectedPrivateCount = selectedCounty ? privateSchoolsByCounty[selectedCounty] ?? null : null;
+  const selectedNeighbor = selectedCounty ? countyNeighbors[selectedCounty] : null;
+  const selectedNeighborCount = selectedNeighbor ? countyCounts[selectedNeighbor] ?? 0 : null;
+  const selectedRank = selectedCounty ? countyRanks[selectedCounty] ?? null : null;
 
   return (
     <div className="App">
@@ -95,6 +119,9 @@ const App = () => {
               county={selectedCounty}
               schools={selectedSchools}
               privateCount={selectedPrivateCount}
+              neighborCounty={selectedNeighbor}
+              neighborCount={selectedNeighborCount}
+              rankInfo={selectedRank}
             />
           </div>
         </section>
