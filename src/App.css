@@ -368,11 +368,11 @@ main {
 }
 
 .texas-map path.has-schools {
-  fill: var(--accent-color);
+  fill: rgba(245, 242, 234, 0.12);
 }
 
 .texas-map path.no-schools {
-  fill: var(--county-empty);
+  fill: var(--action-color);
 }
 
 .texas-map path.is-selected {
@@ -409,11 +409,11 @@ main {
 }
 
 .legend-swatch.has-schools {
-  background: var(--accent-color);
+  background: rgba(245, 242, 234, 0.2);
 }
 
 .legend-swatch.no-schools {
-  background: var(--county-empty);
+  background: var(--action-color);
 }
 
 .legend-swatch.is-selected {

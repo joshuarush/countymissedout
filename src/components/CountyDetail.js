@@ -36,37 +36,42 @@ const CountyDetail = ({ county, schools, privateCount }) => {
   if (hasPrivateData) {
     if (privateCount === 0 && count === 0) {
       privateSummary = {
-        primary: '0 private schools. 0 voucher schools.',
-        secondary: 'No active TEPSAC-accredited private schools in this county.'
+        primary: '0 private schools. 0 schools accepting vouchers.',
+        secondary: 'No private school options to choose from.'
       };
     } else if (privateCount === 0 && count > 0) {
       privateSummary = {
         primary: '0 private schools listed.',
-        secondary: `Voucher list shows ${count} participating schools.`
+        secondary: `Voucher list shows ${count} schools accepting vouchers.`
       };
     } else if (hasPrivateSchools) {
       if (count > privateCount) {
         privateSummary = {
-          primary: `${count} voucher schools listed.`,
-          secondary: `TEPSAC lists ${privateCount} active private schools in this county.`
+          primary: `${count} schools accepting vouchers listed.`,
+          secondary: `Private school directory lists only ${privateCount} in this county.`
         };
       } else {
         const percent = Math.round((count / privateCount) * 100);
         const notParticipating = 100 - percent;
-        if (percent >= 80) {
+        if (count === 0) {
           privateSummary = {
-            primary: `${notParticipating}% of private schools are still shut out.`,
-            secondary: `Even with ${percent}% opting in, the voucher program leaves families behind.`
+            primary: '0 schools accepting vouchers.',
+            secondary: `${privateCount} private schools opted out.`
+          };
+        } else if (percent >= 80) {
+          privateSummary = {
+            primary: `${notParticipating}% of private schools are still refusing vouchers.`,
+            secondary: `Even here, ${percent}% participation leaves families without real choice.`
           };
         } else if (percent > 50) {
           privateSummary = {
             primary: `${notParticipating}% of private schools are not participating.`,
-            secondary: `${privateCount - count} schools refuse the voucher program here.`
+            secondary: `${count} of ${privateCount} accept vouchers.`
           };
         } else {
           privateSummary = {
-            primary: `Only ${percent}% of private schools are participating.`,
-            secondary: `${count} of ${privateCount} active TEPSAC-accredited schools opted in.`
+            primary: `Only ${percent}% of private schools accept vouchers.`,
+            secondary: `${notParticipating}% refuse the voucher program.`
           };
         }
       }
@@ -78,19 +83,19 @@ const CountyDetail = ({ county, schools, privateCount }) => {
       <div className={`county-status ${hasSchools ? 'has-schools' : 'no-schools'}`}>
         <h2>
           {county} County has{' '}
-          <span>{hasSchools ? `${count}` : 'ZERO'}</span> voucher schools.
+          <span>{hasSchools ? `${count}` : 'ZERO'}</span> schools accepting vouchers.
         </h2>
         <p>
           {hasSchools
             ? 'Families here have some options, but most of Texas does not.'
-            : 'No private schools in this county signed up for the voucher program.'}
+            : 'No private schools in this county signed up for vouchers.'}
         </p>
       </div>
       {privateSummary && (
         <div className="private-meta">
           <p className="private-metric">{privateSummary.primary}</p>
           {privateSummary.secondary && <p className="private-secondary">{privateSummary.secondary}</p>}
-          <p className="private-note">Private school counts include active TEPSAC-accredited schools.</p>
+          <p className="private-note">Private school counts come from accredited private school listings.</p>
         </div>
       )}
       {hasSchools && (

@@ -59,8 +59,8 @@ const TexasMap = ({ countyCounts, selectedCounty, onSelect }) => {
   return (
     <section className="map-section" id="map">
       <div className="section-heading">
-        <h2>Where vouchers actually exist</h2>
-        <p>Click a county to see how many voucher schools are inside.</p>
+        <h2>Where vouchers disappear</h2>
+        <p>Counties with zero schools accepting vouchers are highlighted.</p>
       </div>
       <div
         className="map-wrapper"
@@ -73,12 +73,12 @@ const TexasMap = ({ countyCounts, selectedCounty, onSelect }) => {
       </div>
       <div className="map-legend">
         <div className="legend-item">
-          <span className="legend-swatch has-schools" />
-          Voucher schools exist
-        </div>
-        <div className="legend-item">
           <span className="legend-swatch no-schools" />
           Zero voucher schools
+        </div>
+        <div className="legend-item">
+          <span className="legend-swatch has-schools" />
+          Schools accepting vouchers
         </div>
         <div className="legend-item">
           <span className="legend-swatch is-selected" />
@@ -88,7 +88,7 @@ const TexasMap = ({ countyCounts, selectedCounty, onSelect }) => {
       <div className="map-status">
         {activeCounty ? (
           <p>
-            {activeCounty} County: <strong>{activeCount}</strong> voucher school{activeCount === 1 ? '' : 's'}.
+            {activeCounty} County: <strong>{activeCount}</strong> school{activeCount === 1 ? '' : 's'} accepting vouchers.
           </p>
         ) : (
           <p>Hover a county to see details.</p>
