@@ -11,7 +11,7 @@ const Footer = () => (
         Data source: <a href="https://finder.educationfreedom.texas.gov" target="_blank" rel="noopener noreferrer">Texas Education Freedom</a> vendor list.
       </p>
       <p>
-        Private school counts: <a href="https://www.tepsac.org/" target="_blank" rel="noopener noreferrer">TEPSAC accredited schools</a>.
+        Private school counts: <a href="https://www.tepsac.org/" target="_blank" rel="noopener noreferrer">TEPSAC accredited schools</a> (active listings).
       </p>
       <p className="footer-small">Built to spotlight the voucher scam, not to sell anything.</p>
     </div>

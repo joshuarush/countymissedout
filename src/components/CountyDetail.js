@@ -33,12 +33,16 @@ const CountyDetail = ({ county, schools, privateCount }) => {
   let privateSchoolMessage = null;
   if (hasPrivateData) {
     if (privateCount === 0 && count === 0) {
-      privateSchoolMessage = 'This county has no accredited private schools and no voucher schools.';
+      privateSchoolMessage = 'This county has no active TEPSAC-accredited private schools and no voucher schools.';
     } else if (privateCount === 0 && count > 0) {
-      privateSchoolMessage = `TEPSAC lists 0 accredited private schools here, but the voucher list shows ${count}.`;
+      privateSchoolMessage = `TEPSAC lists 0 active accredited private schools here, but the voucher list shows ${count}.`;
     } else if (hasPrivateSchools) {
-      const percent = Math.round((count / privateCount) * 100);
-      privateSchoolMessage = `${count} voucher schools out of ${privateCount} accredited private schools (${percent}%).`;
+      if (count > privateCount) {
+        privateSchoolMessage = `${count} voucher schools listed, while TEPSAC lists ${privateCount} active private schools in this county.`;
+      } else {
+        const percent = Math.round((count / privateCount) * 100);
+        privateSchoolMessage = `${count} voucher schools out of ${privateCount} active TEPSAC-accredited private schools (${percent}%).`;
+      }
     }
   }
 
@@ -58,7 +62,7 @@ const CountyDetail = ({ county, schools, privateCount }) => {
       {privateSchoolMessage && (
         <div className="private-meta">
           <p>{privateSchoolMessage}</p>
-          <p className="private-note">Private school counts use TEPSAC-accredited schools.</p>
+          <p className="private-note">Private school counts include active TEPSAC-accredited schools.</p>
         </div>
       )}
       {hasSchools && (
