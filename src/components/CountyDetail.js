@@ -1,6 +1,6 @@
 import React, { useEffect, useMemo, useState } from 'react';
 
-const CountyDetail = ({ county, schools }) => {
+const CountyDetail = ({ county, schools, privateCount }) => {
   const [showAll, setShowAll] = useState(false);
 
   useEffect(() => {
@@ -27,6 +27,20 @@ const CountyDetail = ({ county, schools }) => {
 
   const count = schools?.length || 0;
   const hasSchools = count > 0;
+  const hasPrivateData = Number.isFinite(privateCount);
+  const hasPrivateSchools = hasPrivateData && privateCount > 0;
+
+  let privateSchoolMessage = null;
+  if (hasPrivateData) {
+    if (privateCount === 0 && count === 0) {
+      privateSchoolMessage = 'This county has no accredited private schools and no voucher schools.';
+    } else if (privateCount === 0 && count > 0) {
+      privateSchoolMessage = `TEPSAC lists 0 accredited private schools here, but the voucher list shows ${count}.`;
+    } else if (hasPrivateSchools) {
+      const percent = Math.round((count / privateCount) * 100);
+      privateSchoolMessage = `${count} voucher schools out of ${privateCount} accredited private schools (${percent}%).`;
+    }
+  }
 
   return (
     <div className="county-detail">
@@ -41,6 +55,12 @@ const CountyDetail = ({ county, schools }) => {
             : 'No private schools in this county signed up for the voucher program.'}
         </p>
       </div>
+      {privateSchoolMessage && (
+        <div className="private-meta">
+          <p>{privateSchoolMessage}</p>
+          <p className="private-note">Private school counts use TEPSAC-accredited schools.</p>
+        </div>
+      )}
       {hasSchools && (
         <div className="county-schools">
           <h3>Participating schools</h3>

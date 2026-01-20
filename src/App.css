@@ -226,6 +226,25 @@ main {
   margin-top: 2rem;
 }
 
+.private-meta {
+  margin-top: 1.5rem;
+  padding: 1rem 1.2rem;
+  border-radius: 16px;
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  color: var(--muted-color);
+}
+
+.private-meta p {
+  margin: 0;
+}
+
+.private-note {
+  margin-top: 0.5rem;
+  font-size: 0.85rem;
+  color: rgba(194, 198, 209, 0.8);
+}
+
 .school-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));

@@ -11,6 +11,7 @@ import RepresentativeSection from './components/RepresentativeSection';
 import Footer from './components/Footer';
 import schoolsByCounty from './data/schools-by-county.json';
 import texasCounties from './data/texas-counties.json';
+import privateSchoolsByCounty from './data/private-schools-by-county.json';
 
 const App = () => {
   const [selectedCounty, setSelectedCounty] = useState(null);
@@ -72,6 +73,7 @@ const App = () => {
   ];
 
   const selectedSchools = selectedCounty ? schoolsByCounty[selectedCounty] || [] : [];
+  const selectedPrivateCount = selectedCounty ? privateSchoolsByCounty[selectedCounty] ?? null : null;
 
   return (
     <div className="App">
@@ -89,7 +91,11 @@ const App = () => {
               onSelect={setSelectedCounty}
               selectedCounty={selectedCounty}
             />
-            <CountyDetail county={selectedCounty} schools={selectedSchools} />
+            <CountyDetail
+              county={selectedCounty}
+              schools={selectedSchools}
+              privateCount={selectedPrivateCount}
+            />
           </div>
         </section>
 
