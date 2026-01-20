@@ -228,7 +228,7 @@ main {
 
 .private-meta {
   margin-top: 1.5rem;
-  padding: 1rem 1.2rem;
+  padding: 1.4rem 1.6rem;
   border-radius: 16px;
   background: rgba(255, 255, 255, 0.04);
   border: 1px solid rgba(255, 255, 255, 0.1);
@@ -237,6 +237,17 @@ main {
 
 .private-meta p {
   margin: 0;
+}
+
+.private-metric {
+  font-family: var(--headline-font);
+  font-size: 1.4rem;
+  color: var(--accent-color);
+}
+
+.private-secondary {
+  margin-top: 0.5rem;
+  color: var(--text-color);
 }
 
 .private-note {
@@ -250,6 +261,17 @@ main {
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
   gap: 1rem;
   margin: 1rem 0;
+}
+
+.school-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.school-header h3 {
+  margin: 0;
 }
 
 .school-card {

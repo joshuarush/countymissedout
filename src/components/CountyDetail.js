@@ -1,18 +1,20 @@
 import React, { useEffect, useMemo, useState } from 'react';
 
 const CountyDetail = ({ county, schools, privateCount }) => {
+  const [showSchools, setShowSchools] = useState(false);
   const [showAll, setShowAll] = useState(false);
 
   useEffect(() => {
+    setShowSchools(false);
     setShowAll(false);
   }, [county]);
 
   const visibleSchools = useMemo(() => {
-    if (!schools || schools.length === 0) return [];
+    if (!schools || schools.length === 0 || !showSchools) return [];
     const sorted = [...schools].sort((a, b) => a.name.localeCompare(b.name));
     if (showAll) return sorted;
-    return sorted.slice(0, 6);
-  }, [schools, showAll]);
+    return sorted.slice(0, 4);
+  }, [schools, showAll, showSchools]);
 
   if (!county) {
     return (
@@ -30,18 +32,43 @@ const CountyDetail = ({ county, schools, privateCount }) => {
   const hasPrivateData = Number.isFinite(privateCount);
   const hasPrivateSchools = hasPrivateData && privateCount > 0;
 
-  let privateSchoolMessage = null;
+  let privateSummary = null;
   if (hasPrivateData) {
     if (privateCount === 0 && count === 0) {
-      privateSchoolMessage = 'This county has no active TEPSAC-accredited private schools and no voucher schools.';
+      privateSummary = {
+        primary: '0 private schools. 0 voucher schools.',
+        secondary: 'No active TEPSAC-accredited private schools in this county.'
+      };
     } else if (privateCount === 0 && count > 0) {
-      privateSchoolMessage = `TEPSAC lists 0 active accredited private schools here, but the voucher list shows ${count}.`;
+      privateSummary = {
+        primary: '0 private schools listed.',
+        secondary: `Voucher list shows ${count} participating schools.`
+      };
     } else if (hasPrivateSchools) {
       if (count > privateCount) {
-        privateSchoolMessage = `${count} voucher schools listed, while TEPSAC lists ${privateCount} active private schools in this county.`;
+        privateSummary = {
+          primary: `${count} voucher schools listed.`,
+          secondary: `TEPSAC lists ${privateCount} active private schools in this county.`
+        };
       } else {
         const percent = Math.round((count / privateCount) * 100);
-        privateSchoolMessage = `${count} voucher schools out of ${privateCount} active TEPSAC-accredited private schools (${percent}%).`;
+        const notParticipating = 100 - percent;
+        if (percent >= 80) {
+          privateSummary = {
+            primary: `${notParticipating}% of private schools are still shut out.`,
+            secondary: `Even with ${percent}% opting in, the voucher program leaves families behind.`
+          };
+        } else if (percent > 50) {
+          privateSummary = {
+            primary: `${notParticipating}% of private schools are not participating.`,
+            secondary: `${privateCount - count} schools refuse the voucher program here.`
+          };
+        } else {
+          privateSummary = {
+            primary: `Only ${percent}% of private schools are participating.`,
+            secondary: `${count} of ${privateCount} active TEPSAC-accredited schools opted in.`
+          };
+        }
       }
     }
   }
@@ -59,32 +86,46 @@ const CountyDetail = ({ county, schools, privateCount }) => {
             : 'No private schools in this county signed up for the voucher program.'}
         </p>
       </div>
-      {privateSchoolMessage && (
+      {privateSummary && (
         <div className="private-meta">
-          <p>{privateSchoolMessage}</p>
+          <p className="private-metric">{privateSummary.primary}</p>
+          {privateSummary.secondary && <p className="private-secondary">{privateSummary.secondary}</p>}
           <p className="private-note">Private school counts include active TEPSAC-accredited schools.</p>
         </div>
       )}
       {hasSchools && (
         <div className="county-schools">
-          <h3>Participating schools</h3>
-          <div className="school-grid">
-            {visibleSchools.map((school) => (
-              <div className="school-card" key={`${school.name}-${school.city}`}>
-                <h4>{school.name}</h4>
-                <p>{school.city}</p>
-                <p className="school-meta">{school.grades}</p>
-              </div>
-            ))}
-          </div>
-          {schools.length > 6 && (
+          <div className="school-header">
+            <h3>Participating schools</h3>
             <button
               className="ghost-button"
               type="button"
-              onClick={() => setShowAll((prev) => !prev)}
+              onClick={() => setShowSchools((prev) => !prev)}
             >
-              {showAll ? 'Show fewer schools' : `Show all ${schools.length} schools`}
+              {showSchools ? 'Hide schools' : 'Show schools'}
             </button>
+          </div>
+          {showSchools && (
+            <>
+              <div className="school-grid">
+                {visibleSchools.map((school) => (
+                  <div className="school-card" key={`${school.name}-${school.city}`}>
+                    <h4>{school.name}</h4>
+                    <p>{school.city}</p>
+                    <p className="school-meta">{school.grades}</p>
+                  </div>
+                ))}
+              </div>
+              {schools.length > 4 && (
+                <button
+                  className="ghost-button"
+                  type="button"
+                  onClick={() => setShowAll((prev) => !prev)}
+                >
+                  {showAll ? 'Show fewer schools' : `Show all ${schools.length} schools`}
+                </button>
+              )}
+            </>
           )}
         </div>
       )}
