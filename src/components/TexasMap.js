@@ -79,7 +79,7 @@ const TexasMap = ({ countyCounts, selectedCounty, onSelect }) => {
     <section className="map-section" id="map">
       <div className="section-heading">
         <h2>Where vouchers disappear</h2>
-        <p>Counties with zero schools accepting vouchers are highlighted.</p>
+        <p>Darker counties have fewer schools accepting vouchers.</p>
       </div>
       <div
         className="map-wrapper"
@@ -91,22 +91,13 @@ const TexasMap = ({ countyCounts, selectedCounty, onSelect }) => {
         <TexasSvg className="texas-map" aria-label="Texas county voucher access map" role="img" />
       </div>
       <div className="map-legend">
-        <div className="legend-item legend-heatbar">
-          <span className="legend-label">0 schools accepting vouchers</span>
-          <div className="heatbar">
-            <span className="legend-swatch map-bucket-0" />
-            <span className="legend-swatch map-bucket-1" />
-            <span className="legend-swatch map-bucket-2" />
-            <span className="legend-swatch map-bucket-3" />
-            <span className="legend-swatch map-bucket-4" />
-            <span className="legend-swatch map-bucket-5" />
-            <span className="legend-swatch map-bucket-6" />
-            <span className="legend-swatch map-bucket-7" />
-            <span className="legend-swatch map-bucket-8" />
-            <span className="legend-swatch map-bucket-9" />
-            <span className="legend-swatch map-bucket-10plus" />
-          </div>
-          <span className="legend-label">10+ schools accepting vouchers</span>
+        <div className="legend-item">
+          <span className="legend-swatch map-bucket-0" />
+          Fewest schools accepting vouchers
+        </div>
+        <div className="legend-item">
+          <span className="legend-swatch map-bucket-10plus" />
+          Most schools accepting vouchers
         </div>
         <div className="legend-item">
           <span className="legend-swatch is-selected" />

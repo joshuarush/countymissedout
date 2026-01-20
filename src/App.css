@@ -386,7 +386,7 @@ main {
 }
 
 .texas-map path.map-bucket-0 {
-  fill: #050505;
+  fill: #121015;
 }
 
 .texas-map path.map-bucket-1 {
@@ -454,24 +454,6 @@ main {
   gap: 0.5rem;
 }
 
-.legend-heatbar {
-  flex-direction: column;
-  align-items: flex-start;
-  gap: 0.6rem;
-}
-
-.legend-label {
-  font-size: 0.85rem;
-  color: var(--muted-color);
-}
-
-.heatbar {
-  display: grid;
-  grid-template-columns: repeat(11, 16px);
-  gap: 4px;
-  align-items: center;
-}
-
 .legend-swatch {
   width: 16px;
   height: 16px;
@@ -481,7 +463,7 @@ main {
 }
 
 .legend-swatch.map-bucket-0 {
-  background: #050505;
+  background: #121015;
 }
 
 .legend-swatch.map-bucket-1 {

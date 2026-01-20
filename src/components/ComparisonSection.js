@@ -11,11 +11,11 @@ const ComparisonSection = () => (
       </div>
       <a
         className="cta-button"
-        href="https://defundmyschool.com"
+        href="https://dontdefundmyschool.com"
         target="_blank"
         rel="noopener noreferrer"
       >
-        Visit Defund My School
+        Visit Don't Defund My School
       </a>
     </div>
   </section>
