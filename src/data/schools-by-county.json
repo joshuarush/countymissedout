@@ -1,0 +1,7391 @@
+{
+  "Fort Bend": [
+    {
+      "name": "Panda Bear Academy 2",
+      "city": "Richmond",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "IVy Kids At Long Meadow Farms",
+      "city": "Richmond",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "IVy Kids Early Learning Center - Cinco Ranch",
+      "city": "Katy, Tx",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Sugar Creek Montessori School",
+      "city": "Stafford",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Kids 'R' Kids #46 Tx",
+      "city": "Katy",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Bridge Preparatory Academy",
+      "city": "Richmond",
+      "type": "Private School",
+      "grades": "Grades 1–12",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Creative Learning Academy",
+      "city": "Sugar Land",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Little Bright Sproutz Bilingual Center",
+      "city": "Sugarland",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Kingdom Kids Care",
+      "city": "Rosenberg",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "The Learning Experience",
+      "city": "Missouri City",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Kids R Kids # 27",
+      "city": "Richmond",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Kidzz Zone Academy & Daycare",
+      "city": "Meadows Place",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Divine Savior Academy - Sienna Plantation",
+      "city": "Missouri City",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Houston Area"
+    },
+    {
+      "name": "The Goddard School - Sienna Plantation",
+      "city": "Missouri City",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Kids R Kids #47",
+      "city": "Missouri City",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Kids \"R\" Kids #11 Tx",
+      "city": "Sugar Land",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Kiddie Academy Richmond",
+      "city": "Richmond",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Patricia Roberts",
+      "city": "Missouri City",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Calvary Episcopal Preparatory Richmond",
+      "city": "Richmond",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Houston Area"
+    },
+    {
+      "name": "St. Laurence Catholic School",
+      "city": "Sugar Land",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Living Water Christian School",
+      "city": "Rosenberg",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Teddy's Ladder",
+      "city": "Missouri City",
+      "type": "Private School",
+      "grades": "Grades PreK–1",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Mini Cande Kisses",
+      "city": "Richmond",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "King's Academy",
+      "city": "Missouri City",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Cornerstone Christian Academy",
+      "city": "Sugar Land",
+      "type": "Private School",
+      "grades": "Grades PreK–9",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Kids R Kids Of Rosenberg",
+      "city": "Rosenberg",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "American Heritage Academy And Childcare",
+      "city": "Rosenberg",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Heritage International Montessori",
+      "city": "Katy",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "IVy Kids Early Learning Center - Silver Ranch",
+      "city": "Katy, Tx",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "The Learning Experience (Bella Terra)",
+      "city": "Richmond",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "The Learning Experience",
+      "city": "Katy",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Children's Choice Learning Center - Fresno",
+      "city": "Fresno",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Kids R Kids",
+      "city": "Stafford",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Petite Maison Montessori At Aliana",
+      "city": "Richmond",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Kids R Kids Learning Academy Of Seven Lakes",
+      "city": "Katy",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Tiny Toes Academy",
+      "city": "Fresno",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "St. Theresa Catholic School",
+      "city": "Sugar Land",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Kidzville Learning Academy",
+      "city": "Rosenberg",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Casa Dei Bambini - Riverstone",
+      "city": "Missour City",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Childrens Lighthouse Of Imperial",
+      "city": "Sugar Land",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Holy Rosary Catholic School",
+      "city": "Rosenberg",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Prescolaire Early Learning Academy",
+      "city": "Richmond",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    }
+  ],
+  "Harris": [
+    {
+      "name": "Alpha Academy #3",
+      "city": "Pasadena",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Kreative 4 Kidz",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Baytown Christian Academy",
+      "city": "Baytown",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Houston Area"
+    },
+    {
+      "name": "D.A.V. Montessori",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–5",
+      "region": "Houston Area"
+    },
+    {
+      "name": "As We Grow Learning Center #2",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "The Saint Constantine School",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Redeemer's Learning Center",
+      "city": "Katy",
+      "type": "Private School",
+      "grades": "Grades K–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Busy Bee Playhouse",
+      "city": "Tomball",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Blooming Daisies Learning Center",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Abc Children's Academy",
+      "city": "Jersey Village",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Open Hearts Learning Center",
+      "city": "Atascocita",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "St. Mary Of The Purification Montessori",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Salem Lutheran School Tomball",
+      "city": "Tomball",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Exceptional Foundation Academy And Childcare",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–2",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Epiphany Lutheran School",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Wee School-First Baptist Church",
+      "city": "Baytown",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "A-1 Montessori Academy",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Corpus Christi Catholic School",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Houston Area"
+    },
+    {
+      "name": "First Baptist Academy Of Baytown",
+      "city": "Baytown",
+      "type": "Private School",
+      "grades": "Grades K–8",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Kathy's Daycare",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Saint Thomas' Episcopal School Houston",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Cornerstone Learning Academy And Childcare #2",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Village School",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Kidz Rocket 4",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "St. Joseph Regional Catholic School",
+      "city": "Baytown",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Little Explorers Academy",
+      "city": "Klein",
+      "type": "Private School",
+      "grades": "Grades PreK–5",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Yeshiva Torat Emet",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Excelsior Classes",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades 4–12",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Apple Grove Daycare And Preschool",
+      "city": "Spring",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Language And Art Centers",
+      "city": "Spring",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Kinder College II",
+      "city": "Jersey Village",
+      "type": "Private School",
+      "grades": "Grades K–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Spring Brainiacs",
+      "city": "Humble",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Ana's Learning Center - Montessori Daycare",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Computer Kids",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "The Goddard School",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "St. Peter Catholic High School",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades 9–12",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Child Foundation Academy",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Our Lady Of Fatima School - Galena Park",
+      "city": "Galena Park",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Trinity Classical School",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Humble Christian School",
+      "city": "Humble",
+      "type": "Private School",
+      "grades": "Grades 7–12",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Big Dreams & Lil Wonders Christian Academy # 2",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Houston Adventist Academy",
+      "city": "Cypress",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Incarnate Word Academy",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades 9–12",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Molo Bilingual Montessori School",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–6",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Sowing & Growing Christian Academy",
+      "city": "Katy",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "The Goddard School",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Computer Kids Hope Academy",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Kinderworld Academy",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Foundations Christian Academy",
+      "city": "El Lago",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Lil Rascals Childcare",
+      "city": "Deer Park",
+      "type": "Private School",
+      "grades": "Grades PreK–5",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Christ The Redeemer",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Molo Learning Center",
+      "city": "Spring",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "St. Augustine School - Houston",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Houston Area"
+    },
+    {
+      "name": "The Academy Of Young Scholars",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Kidz Rocket 2",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Kids R Kids #26",
+      "city": "Cypress",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "St. Mary Magdalene School",
+      "city": "Humble",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Houston Area"
+    },
+    {
+      "name": "British International School Of Houston",
+      "city": "Katy",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Learning And Beyond Academy",
+      "city": "Katy",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Memorial Lutheran School Houston",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Agape Christian Preschool & Child Care",
+      "city": "Pasadena",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Acton Leadership Academy: Creekside/Tomball",
+      "city": "Tomball",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Precious Stones Academy",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Providence Classical School",
+      "city": "Klein",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Chinquapin Preparatory School",
+      "city": "Highlands",
+      "type": "Private School",
+      "grades": "Grades 6–12",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Creative Kidz",
+      "city": "Spring",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Community Partners Fifthward Early Childhood Development Ctr",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Creative Connections Childrens Center",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Cora's Cottage Care For Kids",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "St. Edward Catholic School",
+      "city": "Spring",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Westchase Neighborhood Preschool",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Silver Star Academy",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "IVy Kids Early Learning Center Young Ranch",
+      "city": "Cypress",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "IVy Kids At Cypress Creek Lakes",
+      "city": "Cypress",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Kids Arena Inc. Dba Kids Arena Academy",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "St. Vincent De Paul School",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Trinity Klein Lutheran School Spring",
+      "city": "Klein",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Houston Area"
+    },
+    {
+      "name": "All Over The Place",
+      "city": "Humble",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Grace Christian Academy",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Locomotion Early Learning Center",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Kids Of Valor Academy",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Ashford Montessori",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "As We Grow Learning Center",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "All Beautiful Children Enrichment Learning Center",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "America's Choice Children Center",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Kids R Kids #5",
+      "city": "Spring",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Cristo Rey Jesuit College Preparatory School Of Houston",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades 9–12",
+      "region": "Houston Area"
+    },
+    {
+      "name": "The Learner's Nest Academy",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Little Harvard Academy Center",
+      "city": "Spring",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Houston Area"
+    },
+    {
+      "name": "The L.E.A.F Academy",
+      "city": "Spring",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Vanguard Academy",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–5",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Kiddie Academy Of Clear Lake",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Clear Lake Academy Prep School",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "First Baptist Academy, Houston",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Houston Area"
+    },
+    {
+      "name": "The Covenant Preparatory School",
+      "city": "Kingwood",
+      "type": "Private School",
+      "grades": "Grades K–12",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Jewels Learning Center",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Redbluff Kids",
+      "city": "Pasadena",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "America's Choice Children's Center",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "The Momentum Academy",
+      "city": "Webster",
+      "type": "Private School",
+      "grades": "Grades 5–12",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Building Blocks Academy",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Growing Together Preschool And Daycare",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "St. Theresa Catholic School Houston",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Laugh N' Discover Early Learning Center",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Robindell Private School",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Grandmas House C C C Gold Medal Kids",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Faith Christian Academy",
+      "city": "Pasadena",
+      "type": "Private School",
+      "grades": "Grades K–12",
+      "region": "Houston Area"
+    },
+    {
+      "name": "St. John Paul II Catholic School Houston",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Abc Children's Academy #2",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Torah Girls Academy",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades 9–12",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Gifted And Talented Kid's Academy",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Houston Christian High School",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades 9–12",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Children's Lighthouse Of The Woodlands",
+      "city": "Spring",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Kid's World Learning Center",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Building Rainbows-Tomball",
+      "city": "Tomball",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Beginnings & Beyond Klein",
+      "city": "Spring",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "St. Rose Of Lima Catholic School",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Houston Area"
+    },
+    {
+      "name": "St. Anne Catholic School",
+      "city": "Tomball",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Kidz Rocket 3",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Little Leaders Academy",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Jimmie Ruth Davis-Burton",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Our Lady Of Guadalupe School Houston",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Houston Area"
+    },
+    {
+      "name": "The Learning Experience",
+      "city": "Kingwood",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "St. Catherine's Montessori School",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Founders Christian School",
+      "city": "Spring",
+      "type": "Private School",
+      "grades": "Grades K–12",
+      "region": "Houston Area"
+    },
+    {
+      "name": "First Baptist Christian Academy, Pasadena",
+      "city": "Pasadena",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Kids R Kids West Houston",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "St. Francis De Sales School",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Epiphany Of The Lord Catholic School",
+      "city": "Katy",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Fundamental Learning Center",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Building Blocks Academy Vtm",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Children's Center Of Excellence And Daycare",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Successful Starters Learning Academy II",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Creative Care - Kempwood",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Torah Day School",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Rosehill Christian School",
+      "city": "Tomball",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Houston Area"
+    },
+    {
+      "name": "St. Jerome Catholic School",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Houston Area"
+    },
+    {
+      "name": "St. Mark Lutheran School Houston",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Saint Nicholas School",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Frassati Catholic High School",
+      "city": "Spring",
+      "type": "Private School",
+      "grades": "Grades 9–12",
+      "region": "Houston Area"
+    },
+    {
+      "name": "St. Thomas More Catholic School - Houston",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Kreative Kidz Learning Academy",
+      "city": "Katy",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Blossoms Montessori School",
+      "city": "Spring",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "St. Elizabeth Ann Seton Catholic School - Houston",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Scribbles Academy",
+      "city": "Katy",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Gethsemane Lutheran Preschool",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "The Wiggle Room",
+      "city": "Pasadena",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Abc Word Academy",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Beginnings & Beyond",
+      "city": "Spring",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Texas Christian School",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Amazing Kid'Z Christian Academy",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "St. Christopher Catholic School",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Kidz Rocket 1",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "St. Michael Catholic School - Houston",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Footprints Learning Academy",
+      "city": "Baytown",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Assumption Catholic School",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Abiding Word Lutheran School",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Star Montessori",
+      "city": "Pasadena",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Kids R Kids #1 Cinco Ranch",
+      "city": "Katy",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Kiddie Academy Of Cypresswood",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Pasadena Learning Center",
+      "city": "Pasadena",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "St. Cecilia Catholic School - Houston",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Gessner Kiddie Kollege",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Our Lady Of Walsingham Cathedral High School",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades 9–12",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Trinity Spiral School",
+      "city": "Katy",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Eternity Christian Childcare",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Inspire Me Learning Center",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "West Garden Montessori School",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Memorial Lutheran Preschool Katy",
+      "city": "Katy",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "The Journey School Of Houston",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades K–8",
+      "region": "Houston Area"
+    },
+    {
+      "name": "The Mays School",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–5",
+      "region": "Houston Area"
+    },
+    {
+      "name": "The Goddard School Of Spring Klein",
+      "city": "Spring",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Sacred Heart Catholic School Crosby",
+      "city": "Crosby",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Cornerstone Learning Academy And Childcare",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Kiddie Academy Of Grand Harbor",
+      "city": "Katy",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Exploring Minds Learning Center",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Big Dreams & Lil' Wonders Academy",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Purple Rose Learning Academy",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Mariner Montessori",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "St. Ambrose School",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Little Oaks Early Learning Academy",
+      "city": "The Woodlands",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Kiddie Academy Longenbaugh Cypress",
+      "city": "Cypress",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Holy Ghost Catholic School",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Cradles 2 Crayons Academy",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Kids R Kids #86 South Woodlands",
+      "city": "Tomball",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "The Playground For Kids",
+      "city": "Katy",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Generation One Academy",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Team Tots Academy",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "St. Martha Catholic School",
+      "city": "Kingwood",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Renee Marie Cooley-Walker",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Generation Next Learning Center",
+      "city": "Humble",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "The Learning Experience",
+      "city": "Humble",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Eternity Christian School",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Resurrection Catholic School",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Shining Stars Academy",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "The Rock Early Learning Center / Carson Academy Of Kingdom Excellence (Cake)",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–2",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Kids R Kids Franz Road",
+      "city": "Katy",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "St. Clare Of Assisi Catholic School",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Happy Kids Stop In Play Childcare",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "St. Anne Catholic School Houston",
+      "city": "Houston",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Houston Area"
+    }
+  ],
+  "Franklin": [
+    {
+      "name": "This Little Light Learning Center",
+      "city": "Mount Vernon, Tx",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "East Texas"
+    }
+  ],
+  "Hidalgo": [
+    {
+      "name": "Maelee's Learning Academy",
+      "city": "Weslaco",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Rio Grande Valley"
+    },
+    {
+      "name": "St. Joseph Catholic School Edinburg",
+      "city": "Edinburg",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Rio Grande Valley"
+    },
+    {
+      "name": "Einstein's Academy",
+      "city": "Mission",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Rio Grande Valley"
+    },
+    {
+      "name": "Kids Being Kids Academy",
+      "city": "Mcallen",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Rio Grande Valley"
+    },
+    {
+      "name": "Our Lady Of Sorrows School",
+      "city": "Mcallen",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Rio Grande Valley"
+    },
+    {
+      "name": "Little Adventurers Child Development Center",
+      "city": "Weslaco",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Rio Grande Valley"
+    },
+    {
+      "name": "The Pharr Oratory Of St. Philip Neri School System",
+      "city": "Pharr",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Rio Grande Valley"
+    },
+    {
+      "name": "South Texas Christian Academy",
+      "city": "Mc Allen",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Rio Grande Valley"
+    },
+    {
+      "name": "San Juan Diego Catholic Regional High School",
+      "city": "Mission",
+      "type": "Private School",
+      "grades": "Grades 9–12",
+      "region": "Rio Grande Valley"
+    },
+    {
+      "name": "Learnrgv",
+      "city": "Edinburg",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Rio Grande Valley"
+    },
+    {
+      "name": "Mommyland Bilingual Academy",
+      "city": "Mcallen",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Rio Grande Valley"
+    },
+    {
+      "name": "Valley Christian Heritage School",
+      "city": "Alamo",
+      "type": "Private School",
+      "grades": "Grades K–12",
+      "region": "Rio Grande Valley"
+    },
+    {
+      "name": "Maelee’S Learning Academy 3",
+      "city": "Weslaco",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Rio Grande Valley"
+    },
+    {
+      "name": "Little Braves Child Care",
+      "city": "Donna",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Rio Grande Valley"
+    },
+    {
+      "name": "St. John's Episcopal School Mcallen",
+      "city": "Mcallen",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Rio Grande Valley"
+    },
+    {
+      "name": "Sunshine Kids Daycare",
+      "city": "San Juan",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Rio Grande Valley"
+    },
+    {
+      "name": "New Beginnings Learning Academy #1",
+      "city": "Pharr",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Rio Grande Valley"
+    },
+    {
+      "name": "Southern Littles Academy",
+      "city": "Donna",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Rio Grande Valley"
+    },
+    {
+      "name": "Harvest Christian Academy",
+      "city": "Edinburg",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Rio Grande Valley"
+    },
+    {
+      "name": "Sanctuary Christian Academy",
+      "city": "Edinburg",
+      "type": "Private School",
+      "grades": "Grades K–12",
+      "region": "Rio Grande Valley"
+    },
+    {
+      "name": "Immaculata Pre-Primary",
+      "city": "Pharr",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Rio Grande Valley"
+    },
+    {
+      "name": "Go-Go Kids Learning Academy",
+      "city": "Pharr",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Rio Grande Valley"
+    },
+    {
+      "name": "Covenant Christian Academy",
+      "city": "Mcallen",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Rio Grande Valley"
+    },
+    {
+      "name": "The Learning Palace",
+      "city": "Mcallen",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Rio Grande Valley"
+    },
+    {
+      "name": "Kids Joy Academy",
+      "city": "Palmview",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Rio Grande Valley"
+    },
+    {
+      "name": "The University Of Texas Rio Grande Valley Child Development",
+      "city": "Edinburg",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Rio Grande Valley"
+    },
+    {
+      "name": "Ikids Academy",
+      "city": "Alamo",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Rio Grande Valley"
+    },
+    {
+      "name": "Alpha Kids Early Learning Center",
+      "city": "Weslaco",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Rio Grande Valley"
+    },
+    {
+      "name": "Loving Angels Child Development Center",
+      "city": "Mcallen",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Rio Grande Valley"
+    },
+    {
+      "name": "Bright Beginnings Learning Center",
+      "city": "Donna",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Rio Grande Valley"
+    },
+    {
+      "name": "Kidz Crusade Academy",
+      "city": "Mission",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Rio Grande Valley"
+    }
+  ],
+  "Bexar": [
+    {
+      "name": "Multi-Intelligence Kids College",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Country Kids Academy",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Sa Liberty Field Prep School",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Summerlin Child Care & Learning Center",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Cornerstone Christian Schools",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades K–12",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Blessed Sacrament Catholic School",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Gateway Christian School",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Country Home Learning Center #9 Ltd",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Little Treehouse Early Learning Center #4",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "St. Paul's Episcopal Montessori School",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–6",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "A-2-Z Learning Center #3",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "My Kids 2 Preschool Academy",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Learning Tree Academy",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Brighton Center",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "La Petite Academy West Sunset",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "St. Anthony Catholic High School (San Antonio)",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades 9–12",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Country Home Learning Center #4, Ltd",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Paloma Delallata",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "First Baptist Academy",
+      "city": "Universal City",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "St. Luke Catholic School",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "San Antonio Academy",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "St. John Bosco School",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Over The Rainbow Christian Learning Center",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Little Scholars Childcare Academy",
+      "city": "Windcrest",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Country Home Learning Center #1, Ltd.",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Respite Care Of San Antonio Incorported",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Grace Christian School",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Jumping Kangaroos Day Care",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades K–K",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Acton Academy (North San Antonio)",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "St. Monica Catholic School - Converse",
+      "city": "Converse",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Country Home Learning Center #5, Ltd",
+      "city": "Live Oak",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "St. James The Apostle School",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Shepherd Of The Hills Lutheran School San Antonio",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "St Mary Magdalen Catholic School-San Antonio",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Stepping Stone Learning/Development Center",
+      "city": "Converse",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "New Life Christian Academy Hybrid",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Concordia Lutheran School San Antonio",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Bustos Daycare And Learning Center",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "University Presbyterian Children",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Abc Daycare",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades K–PreK",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Nurturing Hearts Early Learning Center",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Smarty Pants Learning Center",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "St. Thomas More School - San Antonio",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Yogiland",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Brighton Center",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "River City Christian School",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades K–12",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Country Home Learning Center #2, Ltd",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Kiddie Corner Learning Academy",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Country Home Learning Center #3, Ltd.",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Vineyard Christian Secondary School",
+      "city": "San Antonnio",
+      "type": "Private School",
+      "grades": "Grades 6–12",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Jumping Kangaroos Daycare",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades K–K",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Antonian College Preparatory High School",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades 9–12",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Country Home Learning Center #6, Ltd.",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Life Church Child Development Center",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Kiddie Corner Learning Academy 2",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "San Antonio Christian School",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Vineyard Christian School",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–5",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "La Petite Academy Beech Trail",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Early IVy Education - Live Oak",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Providence Catholic School",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades 6–12",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Wiggles Early Learning Academy",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Little Treehouse Early Learning Center #6",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Imagination Child Development Center 1",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Depaul Children's Center",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Little Treehouse Early Learning Center #2",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "St. John Berchmans School",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Holy Cross Of San Antonio",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades 6–12",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "River City Believers Academy",
+      "city": "Selma",
+      "type": "Private School",
+      "grades": "Grades K–12",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "La Mision Child Care And Kid Kamp",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Messiah Kids Preschool",
+      "city": "Boerne",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Madison Square Child Development Center",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Leafspring School At Cibolo Canyons",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Helotes Learning Center",
+      "city": "Helotes",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Little Treehouse Early Learning Center #3",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Jpr International Inc. Dba Kidus",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "St. Anthony Catholic School San Antonio",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Books & Bibs Childcare And Learning",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Alice In Wonderland 2",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Lutheran High School San Antonio",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades 9–12",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Lashonna Vallare",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Country Home Learning Center #10 Ltd.",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "St. George Episcopal School San Antonio",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "St. Gregory The Great Catholic School",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Holy Spirit Catholic School - San Antonio",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Northwest Hills Christian School",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "St. Matthew Catholic School - San Antonio",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Little Flower Catholic School",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Vineyard Christian School",
+      "city": "San Antonnio",
+      "type": "Private School",
+      "grades": "Grades PreK–5",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "I'M Just A Kid!",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "The Pillars Christian Learning Center",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Spanish Grove Academy- Edquisitive Montessori",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Jumping Kangaroos Daycare",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades K–K",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "St. Pius X Catholic School-San Antonio",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Mount Sacred Heart School",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "The Christian School At Castle Hills",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Our Lady Of Perpetual Help Catholic School",
+      "city": "Selma",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Holy Name Catholic School",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Montessori Children¬Ís House & School",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Leafspring School At Sonterra",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "San Antonio Area"
+    }
+  ],
+  "Tarrant": [
+    {
+      "name": "Lena Pope Early Learning Center",
+      "city": "Fort Worth",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "The Tribe Home Daycare",
+      "city": "Fort Worth",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Happy Panda Bilingual Learning Center",
+      "city": "Richland Hills",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Young Sprouts Creative Learning Center Azle North",
+      "city": "Azle",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Walnut Creek Academy",
+      "city": "Mansfield",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Dee Dee's Child Care",
+      "city": "Fort Worth",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Imagine Nation Learning Center",
+      "city": "Mansfield",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Fort Worth Adventist Junior Academy",
+      "city": "Fort Worth",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "St. Elizabeth Ann Seton School Keller",
+      "city": "Keller",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Kc' S Childcare & Learning Center -LLC Kids Club House",
+      "city": "Crowley",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Mothers Heart Childcare Learning Center",
+      "city": "Arlington",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Endless Discoveries Child Development Center",
+      "city": "Saginaw",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Mercy Culture Preparatory Academy",
+      "city": "Fort Worth",
+      "type": "Private School",
+      "grades": "Grades K–12",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Tots Haven Christian Academy",
+      "city": "Fort Worth",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Imagine Nation Center Of Learning",
+      "city": "Arlington",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Ready Set Jump Learning Center",
+      "city": "Fort Worth",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "St. Paul Lutheran School Fort Worth",
+      "city": "Fort Worth",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Saintsville Baptist Church Academy",
+      "city": "Fort Worth",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Mcp Academy",
+      "city": "Mansfield",
+      "type": "Private School",
+      "grades": "Grades K–8",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "St. Maria Goretti Catholic School",
+      "city": "Arlington",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Saintsville Baptist Church Childcare Center",
+      "city": "Fort Worth",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Covenant Christian Academy",
+      "city": "Colleyville",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Fort Worth Academy",
+      "city": "Fort Worth",
+      "type": "Private School",
+      "grades": "Grades K–8",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Lisa's Learning Center",
+      "city": "Fort Worth",
+      "type": "Private School",
+      "grades": "Grades PreK–6",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Kids Humpty Dumpty Academy",
+      "city": "Arlington",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Holy Trinity Catholic School Grapevine",
+      "city": "Grapevine",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Shining Scholars Preparatory Academy",
+      "city": "Fort Worth",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "St. George Catholic School",
+      "city": "Fort Worth",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Harvest Christian Academy - Keller",
+      "city": "Keller",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Joyous Montessori Keller",
+      "city": "Keller",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "The Spellmon Fine Arts Academy",
+      "city": "Forest Hill",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Tlc Schools On Green Oaks",
+      "city": "Arlington",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Mrs. Burke's Christian Academy",
+      "city": "Arlington",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "St. Rita Catholic School Fort Worth",
+      "city": "Fort Worth",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "St. Peter The Apostle Catholic School - Fort Worth",
+      "city": "Fort Worth",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Country Day School Of Arlington-Montessori",
+      "city": "Arlington",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Southwest Christian School-Chisholm Trail Campus",
+      "city": "Fort Worth",
+      "type": "Private School",
+      "grades": "Grades PreK–6",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Young Sprouts Creative Learning Center",
+      "city": "Azle",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Horizon Learning Center",
+      "city": "Pantego",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Starlight Scholars Academy",
+      "city": "North Richland Hills",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Country Acres Child Development Center",
+      "city": "Saginaw",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "The Childrens Courtyard",
+      "city": "Fort Worth",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Ward Every Early Childhood Training Academy",
+      "city": "Fort Worth",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "The Childrens Courtyard",
+      "city": "North Richland Hills",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Lakeside Christian Academy",
+      "city": "Euless",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Grace Lutheran Early Education",
+      "city": "Arlington",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "A Mother's Touch Early Childhood Development Center",
+      "city": "Arlington",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Nolan Catholic High School",
+      "city": "Fort Worth",
+      "type": "Private School",
+      "grades": "Grades 9–12",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Messiah Lutheran Classical Academy",
+      "city": "Keller",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "My Dreams Academy",
+      "city": "Fort Worth",
+      "type": "Private School",
+      "grades": "Grades 6–12",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Temple Christian School",
+      "city": "Fort Worth",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Lena Pope Early Learning Center Unthsc Campus",
+      "city": "Fort Worth",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "St. John The Apostle Catholic School",
+      "city": "North Richland Hills",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Image Builders Learning Center",
+      "city": "Fort Worth",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Southwest Christian School - Lakeside Campus",
+      "city": "Fort Worth",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Cassata High School - Fort Worth",
+      "city": "Fort Worth",
+      "type": "Private School",
+      "grades": "Grades 9–12",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Vine Academy: An Acton Academy",
+      "city": "Grapevine",
+      "type": "Private School",
+      "grades": "Grades PreK–5",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "The Childrens Courtyard",
+      "city": "Arlington",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Crown Of Life Lutheran School Colleyville",
+      "city": "Colleyville",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Inspire Academy",
+      "city": "Colleyville",
+      "type": "Private School",
+      "grades": "Grades K–12",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Kidspark",
+      "city": "Arlington",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Miss Tee's Childcare Academy",
+      "city": "Arlington",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "All Saints Catholic School Fort Worth",
+      "city": "Fort Worth",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Academy Of Learners",
+      "city": "North Richland Hills",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Nazarene Christian Academy",
+      "city": "Crowley",
+      "type": "Private School",
+      "grades": "Grades K–12",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "St. Joseph Catholic School",
+      "city": "Arlington",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Childrens Courtyard",
+      "city": "Bedford",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Brainiacs Learning Academy- Grapevine",
+      "city": "Grapevine",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Zenith Rock Child Care Center",
+      "city": "Arlington",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "St. Andrew Catholic School",
+      "city": "Fort Worth",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Kids Rainbow Academy",
+      "city": "Fort Worth",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    }
+  ],
+  "Somervell": [
+    {
+      "name": "Endless Discoveries Glen Rose",
+      "city": "Glen Rose",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    }
+  ],
+  "Moore": [
+    {
+      "name": "Rock Star Daycare Preschool",
+      "city": "Dumas",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Panhandle"
+    }
+  ],
+  "Nueces": [
+    {
+      "name": "Spirit Life Academy",
+      "city": "Corpus Christi",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "South Texas"
+    },
+    {
+      "name": "St. Anthony School Robstown",
+      "city": "Robstown",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "South Texas"
+    },
+    {
+      "name": "St. James Episcopal School Corpus Christi",
+      "city": "Corpus Christi",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "South Texas"
+    },
+    {
+      "name": "Lord Of Life Lutheran Child Development Center",
+      "city": "Corpus Christi",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "South Texas"
+    },
+    {
+      "name": "Incarnate Word Academy Middle School",
+      "city": "Corpus Christi",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "South Texas"
+    },
+    {
+      "name": "Incarnate Word Academy High School Corpus Christi",
+      "city": "Corpus Christi",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "South Texas"
+    },
+    {
+      "name": "Grace Temple Christian Academy",
+      "city": "Corpus Christi",
+      "type": "Private School",
+      "grades": "Grades K–12",
+      "region": "South Texas"
+    },
+    {
+      "name": "Annapolis Christian Academy",
+      "city": "Corpus Christi",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "South Texas"
+    },
+    {
+      "name": "Most Precious Blood School",
+      "city": "Corpus Christi",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "South Texas"
+    },
+    {
+      "name": "Saint John Paul II Academy",
+      "city": "Corpus Christi",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "South Texas"
+    },
+    {
+      "name": "Our Lady Of Perpetual Help Academy",
+      "city": "Corpus Christi",
+      "type": "Private School",
+      "grades": "Grades PreK–5",
+      "region": "South Texas"
+    },
+    {
+      "name": "St. Patrick School - Corpus Christi",
+      "city": "Corpus Christi",
+      "type": "Private School",
+      "grades": "Grades PreK–6",
+      "region": "South Texas"
+    },
+    {
+      "name": "St. Pius X School - Corpus Christi",
+      "city": "Corpus Christi",
+      "type": "Private School",
+      "grades": "Grades PreK–6",
+      "region": "South Texas"
+    },
+    {
+      "name": "Arlington Heights Christian School",
+      "city": "Corpus Christi",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "South Texas"
+    },
+    {
+      "name": "Incarnate Word Academy Elementary Corpus Christi",
+      "city": "Corpus Christi",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "South Texas"
+    },
+    {
+      "name": "Sts. Cyril & Methodius School Corpus Christi",
+      "city": "Corpus Christi",
+      "type": "Private School",
+      "grades": "Grades PreK–5",
+      "region": "South Texas"
+    },
+    {
+      "name": "Dr. A. Martinez Bilingual Academy",
+      "city": "Corpus Christi",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "South Texas"
+    }
+  ],
+  "Williamson": [
+    {
+      "name": "Summit Christian Academy Of Cedar Park",
+      "city": "Cedar Park",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Grace Academy Of Georgetown",
+      "city": "Georgetown",
+      "type": "Private School",
+      "grades": "Grades K–12",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Lake Creek Montessori International School",
+      "city": "Austin",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Austin Area"
+    },
+    {
+      "name": "St. Helen School Georgetown",
+      "city": "Georgetown",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Brushy Creek Learning Center Dba Children's Lighthouse",
+      "city": "Cedar Park",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Goddard School",
+      "city": "Cedar Park",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Goddard School",
+      "city": "Leander",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Esteam Academy",
+      "city": "Round Rock",
+      "type": "Private School",
+      "grades": "Grades K–12",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Divine Savior Academy - Santa Rita Ranch",
+      "city": "Liberty Hill",
+      "type": "Private School",
+      "grades": "Grades PreK–10",
+      "region": "Austin Area"
+    },
+    {
+      "name": "The Goddard School In Austin Avery Ranch",
+      "city": "Austin",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Round Rock Christian Academy",
+      "city": "Round Rock",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Kids R Kids #33",
+      "city": "Austin",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Austin Area"
+    },
+    {
+      "name": "St. Dominic Savio Catholic High School",
+      "city": "Austin",
+      "type": "Private School",
+      "grades": "Grades 9–12",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Invictus: An Acton Academy",
+      "city": "Liberty Hill",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Zion Walburg Lutheran School Georgetown",
+      "city": "Georgetown",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Holy Family Catholic School Austin",
+      "city": "Austin",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Kids Zone Christian Academy",
+      "city": "Jarrell",
+      "type": "Private School",
+      "grades": "Grades PreK–5",
+      "region": "Austin Area"
+    },
+    {
+      "name": "St. Mary School - Taylor",
+      "city": "Taylor",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Little Miracles Christian Preschool II",
+      "city": "Round Rock",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Austin Area"
+    },
+    {
+      "name": "The Learning Experience",
+      "city": "Hutto",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Covenant Community Schools",
+      "city": "Round Rock",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Global Kids Preschool",
+      "city": "Round Rock",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Bluebonnet School Of Cedar Park",
+      "city": "Cedar Park",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Grace Episcopal School, Georgetown",
+      "city": "Georgetown",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Austin Area"
+    }
+  ],
+  "Travis": [
+    {
+      "name": "Shoreline Learning Center",
+      "city": "Austin",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Los Amiguitos",
+      "city": "Austin",
+      "type": "Private School",
+      "grades": "Grades PreK–2",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Ashford Montessori",
+      "city": "Pflugerville",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Austin Area"
+    },
+    {
+      "name": "The Goddard School",
+      "city": "Round Rock",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Childs Day",
+      "city": "Austin",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Austin Area"
+    },
+    {
+      "name": "First Class Child Development Center 3",
+      "city": "Austin",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Cathedral School Of St. Mary - Austin",
+      "city": "Austin",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Austin Area"
+    },
+    {
+      "name": "One Stop Montessori",
+      "city": "Austin",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Tiny Feet Daycare #2",
+      "city": "Austin",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Little Munchkins Learning Center",
+      "city": "Austin",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Austin Area"
+    },
+    {
+      "name": "St. Ignatius Martyr School",
+      "city": "Austin",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Lake Travis Christian Academy: An Acton Academy",
+      "city": "Spicewood",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Garden Blossom Preschool",
+      "city": "Austin",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Acton Academy Northwest Austin",
+      "city": "Austin",
+      "type": "Private School",
+      "grades": "Grades K–12",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Mt. Olive Preschool",
+      "city": "Austin",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Austin Area"
+    },
+    {
+      "name": "St. Louis Catholic School",
+      "city": "Austin",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Redeemer Lutheran School Austin",
+      "city": "Austin",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Didáctica Spanish Immersion Preschool",
+      "city": "Austin",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Austin Classical School",
+      "city": "Austin",
+      "type": "Private School",
+      "grades": "Grades K–12",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Studio Preparatory: An Acton Affiliate",
+      "city": "Austin",
+      "type": "Private School",
+      "grades": "Grades 3–12",
+      "region": "Austin Area"
+    },
+    {
+      "name": "St. Theresa Catholic School Austin",
+      "city": "Austin",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Fiorella Di Reggio Emilia School - North",
+      "city": "Austin",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Fiorella Di Reggio Emilia School",
+      "city": "Austin",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Bright Beginnings",
+      "city": "Austin",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Barton Creek Child Development Center Eisd",
+      "city": "Austin",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Angels Care And Learning Center #2",
+      "city": "Austin",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Austin Area"
+    },
+    {
+      "name": "St. Austin School",
+      "city": "Austin",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Austin Area"
+    },
+    {
+      "name": "University Of Texas Child Development Center",
+      "city": "Austin",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Acton Academy Bee Cave",
+      "city": "Austin",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Austin Area"
+    },
+    {
+      "name": "International Immersion Center",
+      "city": "Austin",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Austin Area"
+    },
+    {
+      "name": "St. Michael's Catholic Preparatory School",
+      "city": "Austin",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Brentwood Christian School",
+      "city": "Austin",
+      "type": "Private School",
+      "grades": "Grades K–12",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Mariposa Montessori School",
+      "city": "Austin",
+      "type": "Private School",
+      "grades": "Grades PreK–9",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Tcs",
+      "city": "Austin",
+      "type": "Private School",
+      "grades": "Grades K–12",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Angels Care And Learning Center",
+      "city": "Austin",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Acton Academy Austin Main Campus",
+      "city": "Austin",
+      "type": "Private School",
+      "grades": "Grades 1–12",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Kiddie Academy Of Bee Cave",
+      "city": "Austin",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Wholesome Generation",
+      "city": "Austin",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Hadar Academy",
+      "city": "Austin",
+      "type": "Private School",
+      "grades": "Grades PreK–5",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Gaining Academic Progress Prek & K Learning Center",
+      "city": "Austin",
+      "type": "Private School",
+      "grades": "Grades K–K",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Ashford Montessori",
+      "city": "Austin",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Kiddie Academy Of Pflugerville",
+      "city": "Pflugerville",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Happy Bunnies",
+      "city": "Austin",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Waterloo School",
+      "city": "Austin",
+      "type": "Private School",
+      "grades": "Grades 9–12",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Highland Montessori School",
+      "city": "Austin",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Acton Academy West Austin",
+      "city": "West Lake Hills",
+      "type": "Private School",
+      "grades": "Grades K–12",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Jewish Community Center Early Childhood Program",
+      "city": "Austin",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Austin Area"
+    },
+    {
+      "name": "The Goddard School",
+      "city": "Austin",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Capitol School Of Austin",
+      "city": "Austin",
+      "type": "Private School",
+      "grades": "Grades PreK–5",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Concordia High School Austin",
+      "city": "Pflugerville",
+      "type": "Private School",
+      "grades": "Grades 9–12",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Learn And Laugh Preschool",
+      "city": "Austin",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Bright Kids Child Development Center",
+      "city": "Austin",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Circle C Child Development Center",
+      "city": "Austin",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Austin Area"
+    },
+    {
+      "name": "House Of Little Angels",
+      "city": "Austin",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Austin Area"
+    },
+    {
+      "name": "San Juan Diego Catholic High School",
+      "city": "Austin",
+      "type": "Private School",
+      "grades": "Grades 9–12",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Central Child Development Center",
+      "city": "West Lake Hills",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Austin Area"
+    }
+  ],
+  "Collin": [
+    {
+      "name": "Little Farmers Learning Center",
+      "city": "Farmersville",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "John Paul II High School",
+      "city": "Plano",
+      "type": "Private School",
+      "grades": "Grades 9–12",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Buzzy Bees Childcare",
+      "city": "Frisco",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "The Goddard School Of Mckinney Honey Creek",
+      "city": "Mckinney",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Kids Usa Learning Center",
+      "city": "Plano",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Wonderland Montessori Academy",
+      "city": "Mckinney",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Bethany Christian School",
+      "city": "Plano",
+      "type": "Private School",
+      "grades": "Grades K–12",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "First United Methodist Weekday Program",
+      "city": "Plano",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Archgate Montessori Academy",
+      "city": "Plano",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Kids Usa Montessori Fris",
+      "city": "Mckinney",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "All Saints Catholic School Dallas",
+      "city": "Dallas",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Kaleidoscope Child Development Center",
+      "city": "Dallas",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Prince Of Peace Catholic School Plano",
+      "city": "Plano",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Kids Montessori Academy",
+      "city": "Richardson",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "St. Martin De Porres Catholic School",
+      "city": "Prosper",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Cadence Academy Preschool-Wylie",
+      "city": "Wylie",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "The Learning Experience",
+      "city": "Plano",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Little Seeds Learning Center",
+      "city": "Melissa",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "IVy Kids Of Coit",
+      "city": "Mckinney",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "American Montessori Campus",
+      "city": "Plano",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Meridian Montessori Of Plano",
+      "city": "Plano",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Daffodils Montessori Preschool",
+      "city": "Mckinney",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "The Goddard School Of Celina",
+      "city": "Prosper",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Rainbow Connection",
+      "city": "Princeton",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Kids R Kids Of Prosper",
+      "city": "Prosper",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "St. Mark The Evangelist Catholic School",
+      "city": "Plano",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Kellees Child Care",
+      "city": "Mckinney",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Logos Christian School",
+      "city": "Plano",
+      "type": "Private School",
+      "grades": "Grades K–5",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Kids ’R’ Kids Learning Academy Of Allen",
+      "city": "Allen",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Happy Flower Montessori Academy",
+      "city": "Plano",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Kids Usa Montessori",
+      "city": "Plano",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Gem Express Preschool & Kindergarten",
+      "city": "Lucas",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Ameen Academy",
+      "city": "Plano",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Veritas Academy",
+      "city": "Wylie",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Dallas-Fort Worth"
+    }
+  ],
+  "Brazoria": [
+    {
+      "name": "Kiddie Academy Lakes Of Savannah",
+      "city": "Rosharon",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Kids R Kids # 44 Tx",
+      "city": "Pearland",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "St. Helen Catholic School - Pearland",
+      "city": "Pearland",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Liberty Preschool Daycare",
+      "city": "Alvin",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Pearland's Early Childhood Development Center",
+      "city": "Pearland",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "The Lux School",
+      "city": "Manvel",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Children’S Clubhouse Daycare & Learning Center",
+      "city": "Danbury",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Little Oaks Early Learning Academy",
+      "city": "Manvel",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Angleton Christian School",
+      "city": "Angleton",
+      "type": "Private School",
+      "grades": "Grades K–12",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Children's Learning Adventure Child Care Center",
+      "city": "Pearland",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "The Little Rascals Child Care Center",
+      "city": "Manvel",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Distinct Abilities Academic Program",
+      "city": "Alvin",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Pearland Kids Club",
+      "city": "Pearland",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Children's Choice Learning Center",
+      "city": "Pearland",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Building Blocks Academy Alvin",
+      "city": "Alvin",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Our Lady Queen Of Peace Catholic School",
+      "city": "Richwood",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Kids Konnection Learning Academy",
+      "city": "Clute",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Kairos Christian Academy",
+      "city": "Clute",
+      "type": "Private School",
+      "grades": "Grades K–12",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Bright Scholars Learning Center",
+      "city": "Pearland",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Children's Social Expo",
+      "city": "Rosharon",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Brazosport Christian School",
+      "city": "Lake Jackson",
+      "type": "Private School",
+      "grades": "Grades K–12",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Kingdom Class Academy",
+      "city": "Angleton",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "The Goddard School",
+      "city": "Pearland",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    }
+  ],
+  "Jefferson": [
+    {
+      "name": "The Clubhouse",
+      "city": "Port Arthur",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "East Texas"
+    },
+    {
+      "name": "Beth's Green Frog Daycare",
+      "city": "Nederland",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "East Texas"
+    },
+    {
+      "name": "World Of Color Development Center",
+      "city": "Beaumont",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "East Texas"
+    },
+    {
+      "name": "Star Academy",
+      "city": "Port Neches",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "East Texas"
+    },
+    {
+      "name": "Groves Red Apple Learning Express",
+      "city": "Groves",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "East Texas"
+    },
+    {
+      "name": "Around The Clock Child Development Center",
+      "city": "Nederland",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "East Texas"
+    },
+    {
+      "name": "St. Anthony Cathedral Basilica School",
+      "city": "Beaumont",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "East Texas"
+    },
+    {
+      "name": "Monsignor Kelly Catholic High School",
+      "city": "Beaumont",
+      "type": "Private School",
+      "grades": "Grades 9–12",
+      "region": "East Texas"
+    },
+    {
+      "name": "Niklem Kids Academy",
+      "city": "Beaumont",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "East Texas"
+    },
+    {
+      "name": "Triniti's World Child Development Center",
+      "city": "Beaumont",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "East Texas"
+    },
+    {
+      "name": "Kids R Kids Beaumont West",
+      "city": "Beaumont",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "East Texas"
+    },
+    {
+      "name": "St. Catherine Of Siena School",
+      "city": "Port Arthur",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "East Texas"
+    },
+    {
+      "name": "A Merry Go Round Daycare/Preschool",
+      "city": "Nederland",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "East Texas"
+    },
+    {
+      "name": "St. Anne Catholic School Beaumont",
+      "city": "Beaumont",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "East Texas"
+    }
+  ],
+  "Galveston": [
+    {
+      "name": "Holy Family Catholic School",
+      "city": "Galveston",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Houston Area"
+    },
+    {
+      "name": "O'Connell College Preparatory School",
+      "city": "Galveston",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Our Lady Of Fatima Catholic School - Texas City",
+      "city": "Texas City",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Kiddie Academy Of League City East",
+      "city": "League City",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "K.B Kids Preschool & Daycare",
+      "city": "La Marque",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Arcadia First Baptist Christian School",
+      "city": "Santa Fe",
+      "type": "Private School",
+      "grades": "Grades K–12",
+      "region": "Houston Area"
+    },
+    {
+      "name": "St. Mary Catholic School League City",
+      "city": "League City",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Abundant Life Christian School",
+      "city": "La Marque",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Lacey's Kids Learning Academy",
+      "city": "Texas City",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "True Cross School - Dickinson",
+      "city": "Dickinson",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Bayaan Academy",
+      "city": "League City",
+      "type": "Private School",
+      "grades": "Grades 1–12",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Kiddie Academy Of League City West",
+      "city": "League City",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Our Lady Of Lourdes School",
+      "city": "Hitchcock",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Christus Victor Childrens School",
+      "city": "League City",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "The Goddard School",
+      "city": "Friendswood",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Bay Area Christian School",
+      "city": "League City",
+      "type": "Private School",
+      "grades": "Grades K–12",
+      "region": "Houston Area"
+    }
+  ],
+  "Dallas": [
+    {
+      "name": "By The Barnyard Gate",
+      "city": "Sachse",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "St. Elizabeth Of Hungary Catholic School",
+      "city": "Dallas",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Bright Kids Montessori",
+      "city": "Farmers Branch",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Little Scholars Academy",
+      "city": "Richardson",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Kosmic Kids",
+      "city": "Desoto",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Desoto Private School & Day Care Center",
+      "city": "Desoto",
+      "type": "Private School",
+      "grades": "Grades PreK–6",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Acton Academy Lakewood",
+      "city": "Dallas",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "The Ubuntu Learning Academy",
+      "city": "Duncanville",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "St. Joseph Catholic School",
+      "city": "Richardson",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Saint Paul Catholic Classical School",
+      "city": "Richardson",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "White Rock Montessori",
+      "city": "Dallas",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Bishop Dunne Catholic High School",
+      "city": "Dallas",
+      "type": "Private School",
+      "grades": "Grades 6–12",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Hopewell Development Center",
+      "city": "Dallas",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Oak Crest Private School",
+      "city": "Carrollton",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Kids University Preparatory Learning Center",
+      "city": "Dallas",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Notre Dame Of Dallas Sp School And Vocational Center",
+      "city": "Dallas",
+      "type": "Private School",
+      "grades": "Grades 1–12",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "St. Thomas Aquinas School",
+      "city": "Dallas",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Montessori At Bowser",
+      "city": "Richardson",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Adventure Discovery Center Number 3",
+      "city": "Irving",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "West Dallas Community School",
+      "city": "Dallas",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "First Methodist School",
+      "city": "Duncanville",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Peari's Preparatory Academy",
+      "city": "Dallas",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Burning Bush Academy",
+      "city": "Dallas",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Bishop Lynch High School",
+      "city": "Dallas",
+      "type": "Private School",
+      "grades": "Grades 9–12",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Our Lady Of Perpetual Help Dallas",
+      "city": "Dallas",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Wos, Inc. D/B/A The Childrens Courtyard",
+      "city": "Grand Prairie",
+      "type": "Private School",
+      "grades": "Grades PreK–1",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "St Pius X Early Care And Education Center",
+      "city": "Mesquite",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Dallas Christian School",
+      "city": "Mesquite",
+      "type": "Private School",
+      "grades": "Grades K–12",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Heartland Montessori Academy Irving",
+      "city": "Irving",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "The Happy Tree Child Development Center",
+      "city": "Carrollton",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Lighthouse Learning Academy-Mesquite",
+      "city": "Mesquite",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Lil Rascals Learning Center 2",
+      "city": "Mesquite",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Kids Concepts Child Development",
+      "city": "Dallas",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "St. Patrick School - Dallas",
+      "city": "Dallas",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Calvary Lutheran School",
+      "city": "Dallas",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Rainbow Academy",
+      "city": "Irving",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "The Highlands School",
+      "city": "Irving",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Achievers Of Excellence Learning Academy",
+      "city": "Mesquite",
+      "type": "Private School",
+      "grades": "Grades K–K",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Stonegate Christian Academy",
+      "city": "Irving",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Martin's Learning Academy",
+      "city": "Balch Springs",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Neighborhood Christian Learning Center Of Dallas",
+      "city": "Dallas",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Tiny Tots University",
+      "city": "Cedar Hill",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Nitra's House",
+      "city": "Mesquite",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "St. James Episcopal School Dallas",
+      "city": "Dallas",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Southwest Christian Academy",
+      "city": "Dallas",
+      "type": "Private School",
+      "grades": "Grades PreK–10",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "St. Monica Catholic School - Dallas",
+      "city": "Dallas",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Zion Lutheran School Dallas",
+      "city": "Dallas",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "The Ark Schools",
+      "city": "Dallas",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Dallas Christian Academy",
+      "city": "Dallas",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Dallas Lutheran School",
+      "city": "Dallas",
+      "type": "Private School",
+      "grades": "Grades 6–12",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Willow Oaks Kids Academy",
+      "city": "Garland",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Garland Christian Academy",
+      "city": "Garland",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Latarus Loving Day Home",
+      "city": "Mesquite",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Linda Jackson",
+      "city": "Lancaster",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Wonderland Montessori Academy Of Las Colinas",
+      "city": "Irving",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Legacy Kids Academy",
+      "city": "Mesquite",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "New Harmony Academy",
+      "city": "Lancaster",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Appleseed Academy",
+      "city": "Mesquite",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Holy Trinity Catholic School - Dallas",
+      "city": "Dallas",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Yorktown Spanish School",
+      "city": "Dallas",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Betty Lin Early Childhood Learning Ctr",
+      "city": "Dallas",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "The Children's Courtyard",
+      "city": "Irving",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Kidz Are People Too Early Childhood Academy",
+      "city": "Duncanville",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Santa Clara Of Assisi Catholic Academy",
+      "city": "Dallas",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Mount St. Michael Catholic School",
+      "city": "Dallas",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Greenville Avenue Child Development Center",
+      "city": "Richardson",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "New Age Montessori",
+      "city": "Irving",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Redeemer Montessori School",
+      "city": "Irving",
+      "type": "Private School",
+      "grades": "Grades PreK–6",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Precious Kargo Academy 2",
+      "city": "Dallas",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "The King's Academy",
+      "city": "Dallas",
+      "type": "Private School",
+      "grades": "Grades PreK–6",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "The Humanist Academy",
+      "city": "Irving",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Frog Academy Of Creek Crossing",
+      "city": "Mesquite",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "St. Pius X Catholic School - Dallas",
+      "city": "Dallas",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Neighborhood Christian Learning Center Of Pleasant Grove",
+      "city": "Dallas",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Good Shepherd Catholic School - Garland",
+      "city": "Garland",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Happy Days School",
+      "city": "Garland",
+      "type": "Private School",
+      "grades": "Grades PreK–2",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "St. Philip & St. Augustine Catholic Academy- Dallas",
+      "city": "Dallas",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Spring Creek Private School",
+      "city": "Dallas",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Kidz N Heart",
+      "city": "Desoto",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "The St. Anthony School",
+      "city": "Carrollton",
+      "type": "Private School",
+      "grades": "Grades 3–12",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "The IVy League Child Development Center & Outreach",
+      "city": "Dallas",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Holy Family Academy",
+      "city": "Irving",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "St. Mary Of Carmel School - Dallas",
+      "city": "Dallas",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Journey Of Faith Christian Learning Center",
+      "city": "Cedar Hill",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "La Escuelita Spanish Immersion Preschool At 10Th Street Hist",
+      "city": "Dallas",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Aunt Faye Early Learning Academy",
+      "city": "Dallas",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Our Redeemer Lutheran School Dallas",
+      "city": "Dallas",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Stepping Stones Of Knowledge",
+      "city": "Duncanville",
+      "type": "Private School",
+      "grades": "Grades K–K",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Dallas First Presbyterian Church Developmental Day School",
+      "city": "Dallas",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Kid's University Learning Center",
+      "city": "Lancaster",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Vanguard Preparatory School",
+      "city": "Dallas",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Immaculate Conception School - Grand Prairie",
+      "city": "Grand Prairie",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Little Steps Learning Center #2",
+      "city": "Dallas",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Oakhill Day School",
+      "city": "Garland",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Creative Steps Academy",
+      "city": "Dallas",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Destined For Greatness Christian Academy",
+      "city": "Grand Prairie",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Pcpmf Learning Academy",
+      "city": "Lancaster",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Rising Starz Child Care Center",
+      "city": "Carrollton",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Flip Childcare & Learning Center",
+      "city": "Grand Prairie",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Grace Academy Of Dallas",
+      "city": "Dallas",
+      "type": "Private School",
+      "grades": "Grades PreK–6",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Cradle To Crayon Learning Center",
+      "city": "Irving",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Pace And Ross Learning Center",
+      "city": "Dallas",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "St. Cecilia Catholic School Dallas",
+      "city": "Dallas",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Mount Hebron Dcc",
+      "city": "Garland",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Vogel Alcove",
+      "city": "Dallas",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Firewheel Christian Academy",
+      "city": "Garland",
+      "type": "Private School",
+      "grades": "Grades K–8",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Kreative Kids Academy",
+      "city": "Dallas",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Zemikael Academy",
+      "city": "Garland",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Frog Academy Of Creekside Village",
+      "city": "Garland",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "First Baptist Academy",
+      "city": "Dallas",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Dallas-Fort Worth"
+    }
+  ],
+  "Kendall": [
+    {
+      "name": "St. Peter The Apostle Catholic School-Boerne",
+      "city": "Boerne",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "St. Helena's Episcopal School",
+      "city": "Boerne",
+      "type": "Private School",
+      "grades": "Grades PreK–5",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Gratitude School",
+      "city": "Boerne",
+      "type": "Private School",
+      "grades": "Grades 4–9",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Early Learning Center Of St Mark Presbyterian",
+      "city": "Boerne",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "San Antonio Area"
+    }
+  ],
+  "Grayson": [
+    {
+      "name": "Grayson Institute For Learning",
+      "city": "Denison",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "North Texas"
+    },
+    {
+      "name": "Bluebonnet Learning Academy",
+      "city": "Sherman",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "North Texas"
+    },
+    {
+      "name": "St. Mary's Catholic School - Sherman",
+      "city": "Sherman",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "North Texas"
+    },
+    {
+      "name": "Heart Of Texoma Montessori Academy",
+      "city": "Sherman",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "North Texas"
+    }
+  ],
+  "Denton": [
+    {
+      "name": "Lamb Of God Preschool",
+      "city": "Flower Mound",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Temple Christian Academy",
+      "city": "Flower Mound",
+      "type": "Private School",
+      "grades": "Grades K–12",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Wonderland Montessori Academy",
+      "city": "Flower Mound",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "The Goddard School Frisco West",
+      "city": "Frisco",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Lakeland Christian Academy",
+      "city": "Lewisville",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Future Scholars Preparatory",
+      "city": "Lewisville",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Harvest Christian Academy - Lantana Campus",
+      "city": "Bartonville",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Bent Tree Day School",
+      "city": "Dallas",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Prince Of Peace Christian School Carrollton",
+      "city": "Carrollton",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Kids Corral At Savannah",
+      "city": "Savannah",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Kids 'R' Kids Learning Academy Of West Fris",
+      "city": "Frisco",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Kids Corral",
+      "city": "Providence Village",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Liberty Christian School",
+      "city": "Argyle",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Kids R Kids Of North Flower Mound",
+      "city": "Flower Mound",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Wisdom Montessori Academy",
+      "city": "Frisco",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Wonderland Montessori Academy",
+      "city": "Trophy Club",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "The Goddard School",
+      "city": "Corinth",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "St. Peter School",
+      "city": "Northlake",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "The Clariden School",
+      "city": "Southlake",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Enlighten Academy",
+      "city": "Lewisville",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Wonderland Montessori Academy",
+      "city": "Carrollton",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Tree House Academy",
+      "city": "Corinth",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Immaculate Conception Catholic School Denton",
+      "city": "Denton",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Dallas-Fort Worth"
+    }
+  ],
+  "El Paso": [
+    {
+      "name": "St. Joseph School El Paso",
+      "city": "El Paso",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "El Paso Area"
+    },
+    {
+      "name": "El Paso Special Needs Education Center",
+      "city": "El Paso",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "El Paso Area"
+    },
+    {
+      "name": "St. Pius X Catholic School",
+      "city": "El Paso",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "El Paso Area"
+    },
+    {
+      "name": "Most Holy Trinity Catholic School",
+      "city": "El Paso",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "El Paso Area"
+    },
+    {
+      "name": "St. Patrick Cathedral School",
+      "city": "El Paso",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "El Paso Area"
+    },
+    {
+      "name": "St. Matthew Catholic School - El Paso",
+      "city": "El Paso",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "El Paso Area"
+    },
+    {
+      "name": "St. Raphael Catholic School",
+      "city": "El Paso",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "El Paso Area"
+    },
+    {
+      "name": "Father Yermo School",
+      "city": "El Paso",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "El Paso Area"
+    },
+    {
+      "name": "St. Clement's Parish School",
+      "city": "El Paso",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "El Paso Area"
+    },
+    {
+      "name": "Abrahams Seed Day Care",
+      "city": "El Paso",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "El Paso Area"
+    },
+    {
+      "name": "Flowers In The Garden Child Development Center",
+      "city": "El Paso",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "El Paso Area"
+    },
+    {
+      "name": "El Paso Adventist Academy",
+      "city": "El Paso",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "El Paso Area"
+    }
+  ],
+  "Cameron": [
+    {
+      "name": "Guadalupe Regional Middle School",
+      "city": "Brownsville",
+      "type": "Private School",
+      "grades": "Grades 6–8",
+      "region": "Rio Grande Valley"
+    },
+    {
+      "name": "St. Mary's Catholic School - Brownsville",
+      "city": "Brownsville",
+      "type": "Private School",
+      "grades": "Grades PreK–6",
+      "region": "Rio Grande Valley"
+    },
+    {
+      "name": "St. Joseph Academy Brownsville",
+      "city": "Brownsville",
+      "type": "Private School",
+      "grades": "Grades 7–12",
+      "region": "Rio Grande Valley"
+    },
+    {
+      "name": "Episcopal Day School Brownsville",
+      "city": "Brownsville",
+      "type": "Private School",
+      "grades": "Grades PreK–6",
+      "region": "Rio Grande Valley"
+    },
+    {
+      "name": "Legendary Kids Academy",
+      "city": "La Feria",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Rio Grande Valley"
+    },
+    {
+      "name": "Imagination Station Academy 5",
+      "city": "Brownsville",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Rio Grande Valley"
+    },
+    {
+      "name": "Marine Military Academy",
+      "city": "Harlingen",
+      "type": "Private School",
+      "grades": "Grades 7–12",
+      "region": "Rio Grande Valley"
+    },
+    {
+      "name": "First Baptist School",
+      "city": "Brownsville",
+      "type": "Private School",
+      "grades": "Grades K–12",
+      "region": "Rio Grande Valley"
+    },
+    {
+      "name": "Discovery Learning Center",
+      "city": "Harlingen",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Rio Grande Valley"
+    },
+    {
+      "name": "St. Alban's Episcopal School Harlingen",
+      "city": "Harlingen",
+      "type": "Private School",
+      "grades": "Grades PreK–6",
+      "region": "Rio Grande Valley"
+    },
+    {
+      "name": "Bright Beginnings Learning Academy",
+      "city": "Harlingen",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Rio Grande Valley"
+    },
+    {
+      "name": "St. Anthony Catholic School Harlingen",
+      "city": "Harlingen",
+      "type": "Private School",
+      "grades": "Grades PreK–5",
+      "region": "Rio Grande Valley"
+    }
+  ],
+  "Deaf Smith": [
+    {
+      "name": "St. Anthony's School Hereford",
+      "city": "Hereford",
+      "type": "Private School",
+      "grades": "Grades PreK–5",
+      "region": "Panhandle"
+    }
+  ],
+  "Johnson": [
+    {
+      "name": "Q&A Preschools",
+      "city": "Burleson",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Chisholm Trail Academy",
+      "city": "Keene",
+      "type": "Private School",
+      "grades": "Grades 9–12",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Jumps Preschool",
+      "city": "Joshua",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Tree House Academy",
+      "city": "Burleson",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Holy Cross Christian Academy",
+      "city": "Burleson",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Dallas-Fort Worth"
+    }
+  ],
+  "Bell": [
+    {
+      "name": "Northside Baptist Academy",
+      "city": "Nolanville",
+      "type": "Private School",
+      "grades": "Grades K–12",
+      "region": "Central Texas"
+    },
+    {
+      "name": "Central Texas Christian School",
+      "city": "Temple",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Central Texas"
+    },
+    {
+      "name": "The Learning Zone",
+      "city": "Killeen",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Central Texas"
+    },
+    {
+      "name": "St. Mary's Catholic School - Temple",
+      "city": "Temple",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Central Texas"
+    },
+    {
+      "name": "Tamra Learning Academy",
+      "city": "Temple",
+      "type": "Private School",
+      "grades": "Grades K–8",
+      "region": "Central Texas"
+    },
+    {
+      "name": "Oak Creek Academy",
+      "city": "Killeen",
+      "type": "Private School",
+      "grades": "Grades K–12",
+      "region": "Central Texas"
+    },
+    {
+      "name": "Unique Cdc",
+      "city": "Killeen",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Central Texas"
+    },
+    {
+      "name": "Holy Trinity Catholic High School Temple",
+      "city": "Temple",
+      "type": "Private School",
+      "grades": "Grades 9–12",
+      "region": "Central Texas"
+    },
+    {
+      "name": "The Imagine Academy",
+      "city": "Belton",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Central Texas"
+    },
+    {
+      "name": "Providence Preparatory School",
+      "city": "Belton",
+      "type": "Private School",
+      "grades": "Grades K–12",
+      "region": "Central Texas"
+    },
+    {
+      "name": "Country Child Care",
+      "city": "Moody",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Central Texas"
+    },
+    {
+      "name": "Acton Academy Salado",
+      "city": "Salado",
+      "type": "Private School",
+      "grades": "Grades K–12",
+      "region": "Central Texas"
+    },
+    {
+      "name": "St. Joseph Catholic Academy",
+      "city": "Killeen",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Central Texas"
+    },
+    {
+      "name": "Vintage Christian Academy",
+      "city": "Harker Heights",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Central Texas"
+    },
+    {
+      "name": "Killeen Adventist Junior Academy",
+      "city": "Killeen",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Central Texas"
+    }
+  ],
+  "Ellis": [
+    {
+      "name": "Waxahachie Preparatory Academy",
+      "city": "Waxahachie",
+      "type": "Private School",
+      "grades": "Grades K–12",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Excelsior Preparatory Children's School",
+      "city": "Midlothian",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Adventure Academy",
+      "city": "Red Oak",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Discovery Childrens Academy",
+      "city": "Midlothian",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "St. Joseph Catholic School Waxhachie",
+      "city": "Waxahachie",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Dallas Darlings Daycare Licensed Child Care Home",
+      "city": "Red Oak",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Ya Ya's Yuniversity",
+      "city": "Waxahachie",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    }
+  ],
+  "Kerr": [
+    {
+      "name": "Our Lady Of The Hills Regional Catholic High School",
+      "city": "Kerrville",
+      "type": "Private School",
+      "grades": "Grades 6–12",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Notre Dame Catholic School Kerrville",
+      "city": "Kerrville",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "San Antonio Area"
+    }
+  ],
+  "Gregg": [
+    {
+      "name": "Longview Christian School",
+      "city": "Longview",
+      "type": "Private School",
+      "grades": "Grades K–12",
+      "region": "East Texas"
+    },
+    {
+      "name": "Kid Kountry",
+      "city": "Longview",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "East Texas"
+    },
+    {
+      "name": "Trinity School Of Texas Longview",
+      "city": "Longview",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "East Texas"
+    },
+    {
+      "name": "Heero Kids Development Center",
+      "city": "Longview",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "East Texas"
+    },
+    {
+      "name": "First Step",
+      "city": "Longview",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "East Texas"
+    },
+    {
+      "name": "St. Mary's Catholic School",
+      "city": "Longview",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "East Texas"
+    }
+  ],
+  "Guadalupe": [
+    {
+      "name": "Dennika Roberts",
+      "city": "Seguin",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "St. James Catholic School",
+      "city": "Seguin",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "La Petite Academy Savannah",
+      "city": "Schertz",
+      "type": "Private School",
+      "grades": "Grades K–K",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Lifegate Christian School",
+      "city": "Seguin",
+      "type": "Private School",
+      "grades": "Grades K–12",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "The Pillars Christian Learning Center",
+      "city": "Cibolo",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Ohana Learning Center",
+      "city": "Seguin",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "San Antonio Area"
+    }
+  ],
+  "Tom Green": [
+    {
+      "name": "Cornerstone Christian School",
+      "city": "San Angelo",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "West Texas"
+    },
+    {
+      "name": "Angelo Catholic School",
+      "city": "San Angelo",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "West Texas"
+    },
+    {
+      "name": "Trinity Lutheran School San Angelo",
+      "city": "San Angelo",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "West Texas"
+    }
+  ],
+  "Bowie": [
+    {
+      "name": "Cardinal Academy",
+      "city": "Maud",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "East Texas"
+    },
+    {
+      "name": "St. James Day School Texarkana",
+      "city": "Texarkana",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "East Texas"
+    }
+  ],
+  "Smith": [
+    {
+      "name": "Acton Academy Tyler",
+      "city": "Tyler",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "East Texas"
+    },
+    {
+      "name": "Kings Academy Christian School (Naums)",
+      "city": "Tyler",
+      "type": "Private School",
+      "grades": "Grades K–12",
+      "region": "East Texas"
+    },
+    {
+      "name": "Glenwood Primary University",
+      "city": "Tyler",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "East Texas"
+    },
+    {
+      "name": "Tyler Adventist Christian School",
+      "city": "Tyler",
+      "type": "Private School",
+      "grades": "Grades PreK–10",
+      "region": "East Texas"
+    },
+    {
+      "name": "St. Gregory Cathedral School",
+      "city": "Tyler",
+      "type": "Private School",
+      "grades": "Grades PreK–5",
+      "region": "East Texas"
+    },
+    {
+      "name": "Grace Community School",
+      "city": "Tyler",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "East Texas"
+    },
+    {
+      "name": "The Growing Stick Learning Center",
+      "city": "Tyler",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "East Texas"
+    },
+    {
+      "name": "Toy Town Pre-School",
+      "city": "Lindale",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "East Texas"
+    }
+  ],
+  "Randall": [
+    {
+      "name": "Ascension Academy",
+      "city": "Amarillo",
+      "type": "Private School",
+      "grades": "Grades 5–12",
+      "region": "Panhandle"
+    },
+    {
+      "name": "Holy Cross Catholic Academy",
+      "city": "Amarillo",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Panhandle"
+    },
+    {
+      "name": "St. Joseph Elementary School Amarillo",
+      "city": "Amarillo",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Panhandle"
+    }
+  ],
+  "Hill": [
+    {
+      "name": "First Baptist Christian School",
+      "city": "Hillsboro",
+      "type": "Private School",
+      "grades": "Grades PreK–2",
+      "region": "Central Texas"
+    }
+  ],
+  "Comal": [
+    {
+      "name": "A Creative Learning Ctr",
+      "city": "New Braunfels",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Jabberwocky Journey Learning Academy",
+      "city": "Canyon Lake",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Fit Kids Early Learning Center",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "St. John Paul II High School",
+      "city": "New Braunfels",
+      "type": "Private School",
+      "grades": "Grades 9–12",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Sts Peter & Paul Catholic School",
+      "city": "New Braunfels",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Cross Lutheran School New Braunfels",
+      "city": "New Braunfels",
+      "type": "Private School",
+      "grades": "Grades PreK–9",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Bracken Methodist Preschool",
+      "city": "San Antonio",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Living Rock Academy",
+      "city": "Bulverde",
+      "type": "Private School",
+      "grades": "Grades K–12",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "The Children's Courtyard",
+      "city": "New Braunfels",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Methodist Preschool",
+      "city": "Canyon Lake",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "New Braunfels Christian Academy",
+      "city": "New Braunfels",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Spyrja Academy Of New Braunfels",
+      "city": "New Braunfels",
+      "type": "Private School",
+      "grades": "Grades 9–12",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Gloria Deo Academy",
+      "city": "Bulverde",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Kids 'R' Kids Learning Academy",
+      "city": "New Braunfels",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Bracken Christian School",
+      "city": "Bulverde",
+      "type": "Private School",
+      "grades": "Grades K–12",
+      "region": "San Antonio Area"
+    }
+  ],
+  "Potter": [
+    {
+      "name": "Trinity Lutheran School Amarillo",
+      "city": "Amarillo",
+      "type": "Private School",
+      "grades": "Grades PreK–6",
+      "region": "Panhandle"
+    },
+    {
+      "name": "Acton Academy Amarillo",
+      "city": "Amarillo",
+      "type": "Private School",
+      "grades": "Grades PreK–5",
+      "region": "Panhandle"
+    },
+    {
+      "name": "St. Mary's Cathedral School - Amarillo",
+      "city": "Amarillo",
+      "type": "Private School",
+      "grades": "Grades PreK–5",
+      "region": "Panhandle"
+    }
+  ],
+  "Harrison": [
+    {
+      "name": "Miles Of Smiles Childcare",
+      "city": "Marshall",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "East Texas"
+    },
+    {
+      "name": "Heart Dream Christian Academy",
+      "city": "Marshall",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "East Texas"
+    },
+    {
+      "name": "Hallsville Child Development Center",
+      "city": "Hallsville",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "East Texas"
+    },
+    {
+      "name": "Marshall Christian Academy",
+      "city": "Marshall",
+      "type": "Private School",
+      "grades": "Grades K–12",
+      "region": "East Texas"
+    },
+    {
+      "name": "Gateway Academy",
+      "city": "Marshall",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "East Texas"
+    }
+  ],
+  "Colorado": [
+    {
+      "name": "Weimar Wildcat Academy",
+      "city": "Weimar",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "St. Anthony Catholic School Columbus",
+      "city": "Columbus",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Houston Area"
+    },
+    {
+      "name": "St. Michael School - Weimar",
+      "city": "Weimar",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Houston Area"
+    }
+  ],
+  "Wharton": [
+    {
+      "name": "Creative Care - Wharton",
+      "city": "Wharton",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "St. Philip The Apostle School - El Campo",
+      "city": "El Campo",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Mrs. Beckys Home Away From Home Child Care Learning Center",
+      "city": "El Campo",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    }
+  ],
+  "Marion": [
+    {
+      "name": "Jefferson Christian Academy",
+      "city": "Jefferson",
+      "type": "Private School",
+      "grades": "Grades 9–12",
+      "region": "East Texas"
+    }
+  ],
+  "Parker": [
+    {
+      "name": "Trinity Christian Academy",
+      "city": "Willow Park",
+      "type": "Private School",
+      "grades": "Grades K–12",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "The Academy In Willow Park",
+      "city": "Willow Park",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Victory Baptist Academy",
+      "city": "Weatherford",
+      "type": "Private School",
+      "grades": "Grades K–12",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Hilltop Family Christian Academy",
+      "city": "Springtown",
+      "type": "Private School",
+      "grades": "Grades K–5",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Sunshine Station",
+      "city": "Weatherford",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Azle Christian School",
+      "city": "Azle",
+      "type": "Private School",
+      "grades": "Grades K–12",
+      "region": "Dallas-Fort Worth"
+    }
+  ],
+  "McLennan": [
+    {
+      "name": "Bishop Louis Reicher Catholic School",
+      "city": "Waco",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Central Texas"
+    },
+    {
+      "name": "St. Mary Catholic School - West",
+      "city": "West",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Central Texas"
+    },
+    {
+      "name": "Kingdom Kids Daycare & Academy",
+      "city": "Waco",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Central Texas"
+    },
+    {
+      "name": "Saint Paul's Episcopal Day School Wa",
+      "city": "Waco",
+      "type": "Private School",
+      "grades": "Grades PreK–6",
+      "region": "Central Texas"
+    },
+    {
+      "name": "Live Oak Classical School",
+      "city": "Waco",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Central Texas"
+    },
+    {
+      "name": "Academy For Artistic Development And Early Learning",
+      "city": "Waco",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Central Texas"
+    },
+    {
+      "name": "Golden Apple Academy Learning Center",
+      "city": "Robinson",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Central Texas"
+    }
+  ],
+  "Montgomery": [
+    {
+      "name": "Kids 'R' Kids Of The Woodlands",
+      "city": "Spring",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Kiddie Academy Of Woodforest",
+      "city": "Montgomery",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "The Goddard School - Spring Harmony",
+      "city": "Spring",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Valley Ranch Academy",
+      "city": "Porter",
+      "type": "Private School",
+      "grades": "Grades PreK–5",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Kids World Learning Center",
+      "city": "Willis",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Sacred Heart Catholic School Conroe",
+      "city": "Conroe",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Houston Area"
+    },
+    {
+      "name": "The Learning Experience",
+      "city": "Spring",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Acton Leadership Academy: Magnolia/Woodlands",
+      "city": "Magnolia",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Houston Area"
+    },
+    {
+      "name": "St. Anthony Of Padua School",
+      "city": "The Woodlands",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Prescolaire Early Learning Academy",
+      "city": "Conroe",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Lifestyle Christian School",
+      "city": "Conroe",
+      "type": "Private School",
+      "grades": "Grades K–12",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Acton Academy Kingwood",
+      "city": "Porter",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Houston Area"
+    }
+  ],
+  "Webb": [
+    {
+      "name": "Kinderclub Learning Center Too",
+      "city": "Laredo",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "South Texas"
+    },
+    {
+      "name": "St. Augustine Elementary And Middle School - Laredo",
+      "city": "Laredo",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "South Texas"
+    },
+    {
+      "name": "St. Augustine High School - Laredo",
+      "city": "Laredo",
+      "type": "Private School",
+      "grades": "Grades 9–12",
+      "region": "South Texas"
+    },
+    {
+      "name": "Little Hearts Child Development Center",
+      "city": "Laredo",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "South Texas"
+    },
+    {
+      "name": "Champions Christian Academy",
+      "city": "Laredo",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "South Texas"
+    },
+    {
+      "name": "Sunshine Little School Child Center",
+      "city": "Laredo",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "South Texas"
+    },
+    {
+      "name": "Mary Help Of Christians School",
+      "city": "Laredo",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "South Texas"
+    },
+    {
+      "name": "The Learning Patch Academy",
+      "city": "Laredo",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "South Texas"
+    },
+    {
+      "name": "Little Characters Daycare & Learning Center",
+      "city": "Laredo",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "South Texas"
+    },
+    {
+      "name": "Blessed Sacrament School Laredo",
+      "city": "Laredo",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "South Texas"
+    },
+    {
+      "name": "Once Upon A Dream Learning Center",
+      "city": "Laredo",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "South Texas"
+    }
+  ],
+  "Hardin": [
+    {
+      "name": "Rise And Shine Day School",
+      "city": "Lumberton",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "East Texas"
+    },
+    {
+      "name": "Rise And Shine Day School East",
+      "city": "Lumberton",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "East Texas"
+    }
+  ],
+  "Medina": [
+    {
+      "name": "Little Red Rooster Learning Center",
+      "city": "Devine",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "St. Louis Catholic Elementary School - Castroville",
+      "city": "Castroville",
+      "type": "Private School",
+      "grades": "Grades PreK–5",
+      "region": "San Antonio Area"
+    }
+  ],
+  "Hays": [
+    {
+      "name": "First Class Child Development Center 2",
+      "city": "Buda",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Santa Cruz Catholic School",
+      "city": "Buda",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Kids Of The Kingdom",
+      "city": "San Marcos",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Acton Academy Dripping Springs",
+      "city": "Dripping Springs",
+      "type": "Private School",
+      "grades": "Grades K–12",
+      "region": "Austin Area"
+    }
+  ],
+  "Victoria": [
+    {
+      "name": "Our Lady Of Victory Catholic School",
+      "city": "Victoria",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "South Texas"
+    },
+    {
+      "name": "Nazareth Academy School",
+      "city": "Victoria",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "South Texas"
+    },
+    {
+      "name": "Faith Academy (Victoria)",
+      "city": "Victoria",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "South Texas"
+    },
+    {
+      "name": "Trinity Episcopal School Victoria",
+      "city": "Victoria",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "South Texas"
+    },
+    {
+      "name": "St. Joseph High School",
+      "city": "Victoria",
+      "type": "Private School",
+      "grades": "Grades K–12",
+      "region": "South Texas"
+    }
+  ],
+  "Midland": [
+    {
+      "name": "St. Ann's School",
+      "city": "Midland",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "West Texas"
+    },
+    {
+      "name": "Pioneer Natural Resources Family Center",
+      "city": "Midland",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "West Texas"
+    },
+    {
+      "name": "Kid Town Daycare",
+      "city": "Midland",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "West Texas"
+    },
+    {
+      "name": "Texas Success Academy (Digital Learning School)",
+      "city": "Midland",
+      "type": "Private School",
+      "grades": "Grades K–12",
+      "region": "West Texas"
+    },
+    {
+      "name": "Holy Cross Catholic High School",
+      "city": "Midland",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "West Texas"
+    },
+    {
+      "name": "Midland Christian School",
+      "city": "Midland",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "West Texas"
+    },
+    {
+      "name": "Orion High School (Digital Learning School)",
+      "city": "Midland",
+      "type": "Private School",
+      "grades": "Grades K–12",
+      "region": "West Texas"
+    }
+  ],
+  "Cooke": [
+    {
+      "name": "Donna Zimmerer Licensed Child Care",
+      "city": "Gainesville",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "North Texas"
+    },
+    {
+      "name": "St. Mary's Elementary",
+      "city": "Gainesville",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "North Texas"
+    },
+    {
+      "name": "Sacred Heart Catholic School Muenster",
+      "city": "Muenster",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "North Texas"
+    },
+    {
+      "name": "Lil Leopards Learning Ranchette",
+      "city": "Gainesville",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "North Texas"
+    }
+  ],
+  "Hunt": [
+    {
+      "name": "Vida's Stepping Stones Learning Center",
+      "city": "Greenville",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    }
+  ],
+  "Leon": [
+    {
+      "name": "Chapel Christian Academy",
+      "city": "Centerville",
+      "type": "Private School",
+      "grades": "Grades PreK–6",
+      "region": "Central Texas"
+    }
+  ],
+  "Bee": [
+    {
+      "name": "St. Philip's Episcopal School",
+      "city": "Beeville",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "South Texas"
+    }
+  ],
+  "Van Zandt": [
+    {
+      "name": "Holy Family Academy Of Van Zandt County -Canton",
+      "city": "Canton",
+      "type": "Private School",
+      "grades": "Grades PreK–5",
+      "region": "East Texas"
+    }
+  ],
+  "Brown": [
+    {
+      "name": "Brown County Christian School",
+      "city": "Brownwood",
+      "type": "Private School",
+      "grades": "Grades K–12",
+      "region": "West Texas"
+    }
+  ],
+  "Atascosa": [
+    {
+      "name": "Little Pirates Bilingual Playschool And Daycare",
+      "city": "Lytle",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "Our Lady Of Grace Catholic School",
+      "city": "Pleasanton",
+      "type": "Private School",
+      "grades": "Grades PreK–5",
+      "region": "San Antonio Area"
+    }
+  ],
+  "Uvalde": [
+    {
+      "name": "Sacred Heart Catholic School",
+      "city": "Uvalde",
+      "type": "Private School",
+      "grades": "Grades PreK–6",
+      "region": "South Texas"
+    },
+    {
+      "name": "St. Philip's Episcopal School Uvalde",
+      "city": "Uvalde",
+      "type": "Private School",
+      "grades": "Grades PreK–5",
+      "region": "South Texas"
+    }
+  ],
+  "Washington": [
+    {
+      "name": "Citadel Christian School",
+      "city": "Brenham",
+      "type": "Private School",
+      "grades": "Grades K–12",
+      "region": "Central Texas"
+    },
+    {
+      "name": "St Pauls Christian Day School",
+      "city": "Brenham",
+      "type": "Private School",
+      "grades": "Grades PreK–6",
+      "region": "Central Texas"
+    }
+  ],
+  "Henderson": [
+    {
+      "name": "Athens Christian Preparatory Academy",
+      "city": "Athens",
+      "type": "Private School",
+      "grades": "Grades K–12",
+      "region": "East Texas"
+    }
+  ],
+  "Lubbock": [
+    {
+      "name": "Tiny Tots U Learning Academy",
+      "city": "Lubbock",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "West Texas"
+    },
+    {
+      "name": "Tiny Tots U Learning Academy At Southhaven",
+      "city": "Lubbock",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "West Texas"
+    },
+    {
+      "name": "Childrens World",
+      "city": "Lubbock",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "West Texas"
+    },
+    {
+      "name": "Cradles To Crayons",
+      "city": "Lubbock",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "West Texas"
+    },
+    {
+      "name": "Christ The King Diocesan Schools",
+      "city": "Lubbock",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "West Texas"
+    },
+    {
+      "name": "Dbs Kids",
+      "city": "Lubbock",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "West Texas"
+    },
+    {
+      "name": "Trinity Christian School",
+      "city": "Lubbock",
+      "type": "Private School",
+      "grades": "Grades K–12",
+      "region": "West Texas"
+    },
+    {
+      "name": "All Saints Episcopal School Lubbock",
+      "city": "Lubbock",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "West Texas"
+    },
+    {
+      "name": "Mrs. Wood's Learning Spot",
+      "city": "Lubbock",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "West Texas"
+    }
+  ],
+  "Fayette": [
+    {
+      "name": "St. Rose Of Lima School - Schulenberg",
+      "city": "Schulenberg",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Sacred Heart School La Grange",
+      "city": "La Grange",
+      "type": "Private School",
+      "grades": "Grades PreK–6",
+      "region": "Austin Area"
+    }
+  ],
+  "Matagorda": [
+    {
+      "name": "Discovering Minds Child Development Center",
+      "city": "Bay City",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Holy Cross School - Bay City",
+      "city": "Bay City",
+      "type": "Private School",
+      "grades": "Grades PreK–5",
+      "region": "Houston Area"
+    }
+  ],
+  "Hood": [
+    {
+      "name": "Cornerstone Christian Academy",
+      "city": "Granbury",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Grace Classical Christian Academy",
+      "city": "Granbury",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Rainbows Promise",
+      "city": "Granbury",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Dallas-Fort Worth"
+    }
+  ],
+  "Palo Pinto": [
+    {
+      "name": "Kiddie Klubhouse Learning Academy",
+      "city": "Mineral Wells",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Dallas-Fort Worth"
+    },
+    {
+      "name": "Community Christian School",
+      "city": "Mineral Wells",
+      "type": "Private School",
+      "grades": "Grades K–12",
+      "region": "Dallas-Fort Worth"
+    }
+  ],
+  "Angelina": [
+    {
+      "name": "Building Blocks Academy",
+      "city": "Burke",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "East Texas"
+    },
+    {
+      "name": "St. Patrick Classical School",
+      "city": "Lufkin",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "East Texas"
+    }
+  ],
+  "Nacogdoches": [
+    {
+      "name": "Preschool Express Learning Academy Of Nacogdoches",
+      "city": "Nacogdoches",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "East Texas"
+    },
+    {
+      "name": "St. Boniface Classical High School, A Chesterton Academy",
+      "city": "Nacogdoches",
+      "type": "Private School",
+      "grades": "Grades 9–12",
+      "region": "East Texas"
+    },
+    {
+      "name": "Regents Academy",
+      "city": "Nacogdoches",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "East Texas"
+    }
+  ],
+  "Limestone": [
+    {
+      "name": "Cool Cats Learning Academy",
+      "city": "Mexia",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "Central Texas"
+    }
+  ],
+  "Wichita": [
+    {
+      "name": "Children Come 1St",
+      "city": "Wichita Falls",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "North Texas"
+    },
+    {
+      "name": "Wichita Christian School",
+      "city": "Wichita Falls",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "North Texas"
+    },
+    {
+      "name": "Learning Essentials Daycare",
+      "city": "Wichita Falls",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "North Texas"
+    }
+  ],
+  "Brazos": [
+    {
+      "name": "Little Scholars Academy",
+      "city": "Bryan",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Central Texas"
+    },
+    {
+      "name": "Allen Academy",
+      "city": "Bryan",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Central Texas"
+    },
+    {
+      "name": "St. Joseph Catholic School Bryan",
+      "city": "Bryan",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Central Texas"
+    }
+  ],
+  "Jim Hogg": [
+    {
+      "name": "Kingdom Kids Daycare",
+      "city": "Hebbronville",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Rio Grande Valley"
+    }
+  ],
+  "Starr": [
+    {
+      "name": "The Edutainment Zone 2",
+      "city": "Roma",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Rio Grande Valley"
+    },
+    {
+      "name": "Immaculate Conception Catholic School",
+      "city": "Rio Grande City",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Rio Grande Valley"
+    },
+    {
+      "name": "Bambini Learning Institute",
+      "city": "Roma",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Rio Grande Valley"
+    }
+  ],
+  "Lavaca": [
+    {
+      "name": "Sacred Heart Catholic School Hallettsville",
+      "city": "Hallettsville",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "South Texas"
+    },
+    {
+      "name": "St. Joseph Elementary School Yoakum",
+      "city": "Yoakum",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "South Texas"
+    }
+  ],
+  "DeWitt": [
+    {
+      "name": "St. Michael's Catholic School",
+      "city": "Cuero",
+      "type": "Private School",
+      "grades": "Grades PreK–5",
+      "region": "South Texas"
+    }
+  ],
+  "Ector": [
+    {
+      "name": "St. Mary's Central Catholic School - Odessa",
+      "city": "Odessa",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "West Texas"
+    }
+  ],
+  "Orange": [
+    {
+      "name": "Bright Beginnings Learning Center",
+      "city": "Vidor",
+      "type": "Private School",
+      "grades": "Grades PreK–K",
+      "region": "East Texas"
+    }
+  ],
+  "Hockley": [
+    {
+      "name": "Terri's Treehouse Daycare",
+      "city": "Levelland",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "West Texas"
+    }
+  ],
+  "Val Verde": [
+    {
+      "name": "St. James Episcopal School Del Rio",
+      "city": "Del Rio",
+      "type": "Private School",
+      "grades": "Grades PreK–6",
+      "region": "South Texas"
+    },
+    {
+      "name": "Sacred Heart Catholic School",
+      "city": "Del Rio",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "South Texas"
+    }
+  ],
+  "Austin": [
+    {
+      "name": "Faith Academy Of Bellville",
+      "city": "Bellville",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "Houston Area"
+    }
+  ],
+  "Chambers": [
+    {
+      "name": "The Roundup Corral Day Care",
+      "city": "Baytown",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Houston Area"
+    }
+  ],
+  "Coryell": [
+    {
+      "name": "Teeny Tiny Academy",
+      "city": "Copperas Cove",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Central Texas"
+    }
+  ],
+  "Polk": [
+    {
+      "name": "Eastside Christian School",
+      "city": "Livingston",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "East Texas"
+    }
+  ],
+  "Stonewall": [
+    {
+      "name": "Pooh's Corner",
+      "city": "Aspermont",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "West Texas"
+    }
+  ],
+  "Bastrop": [
+    {
+      "name": "Calvary Episcopal Bastrop",
+      "city": "Bastrop",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Austin Area"
+    },
+    {
+      "name": "Little Sheep Learning Center",
+      "city": "Bastrop",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "Austin Area"
+    }
+  ],
+  "Kaufman": [
+    {
+      "name": "First Baptist Church Forney Christian School",
+      "city": "Forney",
+      "type": "Private School",
+      "grades": "Grades K–2",
+      "region": "Dallas-Fort Worth"
+    }
+  ],
+  "Hartley": [
+    {
+      "name": "St. Anthony's School Dalhart",
+      "city": "Dalhart",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Panhandle"
+    }
+  ],
+  "Calhoun": [
+    {
+      "name": "Ladybug Preschool",
+      "city": "Port Lavaca",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "South Texas"
+    },
+    {
+      "name": "Our Lady Of The Gulf Catholic School",
+      "city": "Port Lavaca",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "South Texas"
+    },
+    {
+      "name": "Tots And Tikes Learning Center",
+      "city": "Port Lavaca",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "South Texas"
+    }
+  ],
+  "Lee": [
+    {
+      "name": "Immanuel Lutheran School Giddings",
+      "city": "Giddings",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "Austin Area"
+    }
+  ],
+  "Taylor": [
+    {
+      "name": "St. John's Episcopal School Abilene",
+      "city": "Abilene",
+      "type": "Private School",
+      "grades": "Grades PreK–5",
+      "region": "West Texas"
+    },
+    {
+      "name": "Abilene Christian School",
+      "city": "Abilene",
+      "type": "Private School",
+      "grades": "Grades K–12",
+      "region": "West Texas"
+    }
+  ],
+  "Bandera": [
+    {
+      "name": "Vanguard Christian Education",
+      "city": "Bandera",
+      "type": "Private School",
+      "grades": "Grades K–12",
+      "region": "San Antonio Area"
+    }
+  ],
+  "Walker": [
+    {
+      "name": "Faith Lutheran School Huntsville",
+      "city": "Huntsville",
+      "type": "Private School",
+      "grades": "Grades PreK–4",
+      "region": "Houston Area"
+    },
+    {
+      "name": "Alpha Omega Academy",
+      "city": "Huntsville",
+      "type": "Private School",
+      "grades": "Grades K–12",
+      "region": "Houston Area"
+    }
+  ],
+  "Nolan": [
+    {
+      "name": "Cornerstone Christian School",
+      "city": "Sweetwater",
+      "type": "Private School",
+      "grades": "Grades PreK–3",
+      "region": "West Texas"
+    }
+  ],
+  "Gillespie": [
+    {
+      "name": "Ambleside School Of Fredericksburg",
+      "city": "Fredericksburg",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "San Antonio Area"
+    },
+    {
+      "name": "St. Mary's Catholic School",
+      "city": "Fredericksburg",
+      "type": "Private School",
+      "grades": "Grades PreK–8",
+      "region": "San Antonio Area"
+    }
+  ],
+  "Aransas": [
+    {
+      "name": "Sacred Heart School Rockport",
+      "city": "Rockport",
+      "type": "Private School",
+      "grades": "Grades PreK–5",
+      "region": "South Texas"
+    }
+  ],
+  "Maverick": [
+    {
+      "name": "Our Lady Of Refuge School",
+      "city": "Eagle Pass",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "South Texas"
+    }
+  ],
+  "Anderson": [
+    {
+      "name": "Lil' Indians",
+      "city": "Frankston",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "East Texas"
+    }
+  ],
+  "Stephens": [
+    {
+      "name": "Junior Buckaroo Academy",
+      "city": "Breckenridge",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "West Texas"
+    }
+  ],
+  "Titus": [
+    {
+      "name": "Tutu's & Buckaroo's Childcare Center",
+      "city": "Mount Pleasant",
+      "type": "Private School",
+      "grades": "Grades PreK–PreK",
+      "region": "East Texas"
+    }
+  ],
+  "Wilson": [
+    {
+      "name": "Sacred Heart Catholic School",
+      "city": "Floresville",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "San Antonio Area"
+    }
+  ],
+  "Kleberg": [
+    {
+      "name": "Kingsway Leadership Academy",
+      "city": "Kingsville",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "South Texas"
+    }
+  ],
+  "Cass": [
+    {
+      "name": "Champions Christian Academy",
+      "city": "Atlanta",
+      "type": "Private School",
+      "grades": "Grades PreK–12",
+      "region": "East Texas"
+    }
+  ],
+  "Jim Wells": [
+    {
+      "name": "St. Elizabeth School",
+      "city": "Alice",
+      "type": "Private School",
+      "grades": "Grades PreK–6",
+      "region": "South Texas"
+    }
+  ]
+}

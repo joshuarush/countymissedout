@@ -1,13 +1,51 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700;900&family=Inter:wght@400;500;600;700&display=swap');
+
+:root {
+  --bg-color: #0f1217;
+  --text-color: #f5f2ea;
+  --muted-color: #c2c6d1;
+  --accent-color: #4a90e2;
+  --action-color: #bc1823;
+  --glass-bg: rgba(255, 255, 255, 0.06);
+  --glass-border: rgba(255, 255, 255, 0.18);
+  --shadow: 0 24px 60px rgba(0, 0, 0, 0.35);
+  --headline-font: 'Merriweather', 'Times New Roman', serif;
+  --body-font: 'Inter', 'Helvetica Neue', sans-serif;
+  --county-empty: #2a2f36;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: var(--body-font);
+  background: var(--bg-color);
+  color: var(--text-color);
+  -webkit-font-smoothing: antialiased;
+  line-height: 1.6;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+a {
+  color: inherit;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: var(--headline-font);
+}
+
+p {
+  margin-top: 0;
+}
+
+button {
+  font-family: var(--body-font);
 }

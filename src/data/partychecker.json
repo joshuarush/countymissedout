@@ -1,0 +1,602 @@
+[
+  {
+    "district": 1,
+    "party": "R"
+  },
+  {
+    "district": 2,
+    "party": "R"
+  },
+  {
+    "district": 3,
+    "party": "R"
+  },
+  {
+    "district": 4,
+    "party": "R"
+  },
+  {
+    "district": 5,
+    "party": "R"
+  },
+  {
+    "district": 6,
+    "party": "R"
+  },
+  {
+    "district": 7,
+    "party": "R"
+  },
+  {
+    "district": 8,
+    "party": "R"
+  },
+  {
+    "district": 9,
+    "party": "R"
+  },
+  {
+    "district": 10,
+    "party": "R"
+  },
+  {
+    "district": 11,
+    "party": "R"
+  },
+  {
+    "district": 12,
+    "party": "R"
+  },
+  {
+    "district": 13,
+    "party": "R"
+  },
+  {
+    "district": 14,
+    "party": "R"
+  },
+  {
+    "district": 15,
+    "party": "R"
+  },
+  {
+    "district": 16,
+    "party": "R"
+  },
+  {
+    "district": 17,
+    "party": "R"
+  },
+  {
+    "district": 18,
+    "party": "R"
+  },
+  {
+    "district": 19,
+    "party": "R"
+  },
+  {
+    "district": 20,
+    "party": "R"
+  },
+  {
+    "district": 21,
+    "party": "R"
+  },
+  {
+    "district": 22,
+    "party": "D"
+  },
+  {
+    "district": 23,
+    "party": "R"
+  },
+  {
+    "district": 24,
+    "party": "R"
+  },
+  {
+    "district": 25,
+    "party": "R"
+  },
+  {
+    "district": 26,
+    "party": "R"
+  },
+  {
+    "district": 27,
+    "party": "D"
+  },
+  {
+    "district": 28,
+    "party": "R"
+  },
+  {
+    "district": 29,
+    "party": "R"
+  },
+  {
+    "district": 30,
+    "party": "R"
+  },
+  {
+    "district": 31,
+    "party": "R"
+  },
+  {
+    "district": 32,
+    "party": "R"
+  },
+  {
+    "district": 33,
+    "party": "R"
+  },
+  {
+    "district": 34,
+    "party": "R"
+  },
+  {
+    "district": 35,
+    "party": "D"
+  },
+  {
+    "district": 36,
+    "party": "D"
+  },
+  {
+    "district": 37,
+    "party": "R"
+  },
+  {
+    "district": 38,
+    "party": "D"
+  },
+  {
+    "district": 39,
+    "party": "D"
+  },
+  {
+    "district": 40,
+    "party": "D"
+  },
+  {
+    "district": 41,
+    "party": "D"
+  },
+  {
+    "district": 42,
+    "party": "D"
+  },
+  {
+    "district": 43,
+    "party": "R"
+  },
+  {
+    "district": 44,
+    "party": "R"
+  },
+  {
+    "district": 45,
+    "party": "D"
+  },
+  {
+    "district": 46,
+    "party": "D"
+  },
+  {
+    "district": 47,
+    "party": "D"
+  },
+  {
+    "district": 48,
+    "party": "D"
+  },
+  {
+    "district": 49,
+    "party": "D"
+  },
+  {
+    "district": 50,
+    "party": "D"
+  },
+  {
+    "district": 51,
+    "party": "D"
+  },
+  {
+    "district": 52,
+    "party": "R"
+  },
+  {
+    "district": 53,
+    "party": "R"
+  },
+  {
+    "district": 54,
+    "party": "R"
+  },
+  {
+    "district": 55,
+    "party": "R"
+  },
+  {
+    "district": 56,
+    "party": "R"
+  },
+  {
+    "district": 57,
+    "party": "R"
+  },
+  {
+    "district": 58,
+    "party": "R"
+  },
+  {
+    "district": 59,
+    "party": "R"
+  },
+  {
+    "district": 60,
+    "party": "R"
+  },
+  {
+    "district": 61,
+    "party": "R"
+  },
+  {
+    "district": 62,
+    "party": "R"
+  },
+  {
+    "district": 63,
+    "party": "R"
+  },
+  {
+    "district": 64,
+    "party": "R"
+  },
+  {
+    "district": 65,
+    "party": "R"
+  },
+  {
+    "district": 66,
+    "party": "R"
+  },
+  {
+    "district": 67,
+    "party": "R"
+  },
+  {
+    "district": 68,
+    "party": "R"
+  },
+  {
+    "district": 69,
+    "party": "R"
+  },
+  {
+    "district": 70,
+    "party": "D"
+  },
+  {
+    "district": 71,
+    "party": "R"
+  },
+  {
+    "district": 72,
+    "party": "R"
+  },
+  {
+    "district": 73,
+    "party": "R"
+  },
+  {
+    "district": 74,
+    "party": "D"
+  },
+  {
+    "district": 75,
+    "party": "D"
+  },
+  {
+    "district": 76,
+    "party": "D"
+  },
+  {
+    "district": 77,
+    "party": "D"
+  },
+  {
+    "district": 78,
+    "party": "D"
+  },
+  {
+    "district": 79,
+    "party": "D"
+  },
+  {
+    "district": 80,
+    "party": "R"
+  },
+  {
+    "district": 81,
+    "party": "R"
+  },
+  {
+    "district": 82,
+    "party": "R"
+  },
+  {
+    "district": 83,
+    "party": "R"
+  },
+  {
+    "district": 84,
+    "party": "R"
+  },
+  {
+    "district": 85,
+    "party": "R"
+  },
+  {
+    "district": 86,
+    "party": "R"
+  },
+  {
+    "district": 87,
+    "party": "R"
+  },
+  {
+    "district": 88,
+    "party": "R"
+  },
+  {
+    "district": 89,
+    "party": "R"
+  },
+  {
+    "district": 90,
+    "party": "D"
+  },
+  {
+    "district": 91,
+    "party": "R"
+  },
+  {
+    "district": 92,
+    "party": "D"
+  },
+  {
+    "district": 93,
+    "party": "R"
+  },
+  {
+    "district": 94,
+    "party": "R"
+  },
+  {
+    "district": 95,
+    "party": "D"
+  },
+  {
+    "district": 96,
+    "party": "R"
+  },
+  {
+    "district": 97,
+    "party": "R"
+  },
+  {
+    "district": 98,
+    "party": "R"
+  },
+  {
+    "district": 99,
+    "party": "R"
+  },
+  {
+    "district": 100,
+    "party": "D"
+  },
+  {
+    "district": 101,
+    "party": "D"
+  },
+  {
+    "district": 102,
+    "party": "D"
+  },
+  {
+    "district": 103,
+    "party": "D"
+  },
+  {
+    "district": 104,
+    "party": "D"
+  },
+  {
+    "district": 105,
+    "party": "D"
+  },
+  {
+    "district": 106,
+    "party": "R"
+  },
+  {
+    "district": 107,
+    "party": "D"
+  },
+  {
+    "district": 108,
+    "party": "R"
+  },
+  {
+    "district": 109,
+    "party": "D"
+  },
+  {
+    "district": 110,
+    "party": "D"
+  },
+  {
+    "district": 111,
+    "party": "D"
+  },
+  {
+    "district": 112,
+    "party": "R"
+  },
+  {
+    "district": 113,
+    "party": "D"
+  },
+  {
+    "district": 114,
+    "party": "D"
+  },
+  {
+    "district": 115,
+    "party": "D"
+  },
+  {
+    "district": 116,
+    "party": "D"
+  },
+  {
+    "district": 117,
+    "party": "D"
+  },
+  {
+    "district": 118,
+    "party": "R"
+  },
+  {
+    "district": 119,
+    "party": "D"
+  },
+  {
+    "district": 120,
+    "party": "D"
+  },
+  {
+    "district": 121,
+    "party": "R"
+  },
+  {
+    "district": 122,
+    "party": "R"
+  },
+  {
+    "district": 123,
+    "party": "D"
+  },
+  {
+    "district": 124,
+    "party": "D"
+  },
+  {
+    "district": 125,
+    "party": "D"
+  },
+  {
+    "district": 126,
+    "party": "R"
+  },
+  {
+    "district": 127,
+    "party": "R"
+  },
+  {
+    "district": 128,
+    "party": "R"
+  },
+  {
+    "district": 129,
+    "party": "R"
+  },
+  {
+    "district": 130,
+    "party": "R"
+  },
+  {
+    "district": 131,
+    "party": "D"
+  },
+  {
+    "district": 132,
+    "party": "R"
+  },
+  {
+    "district": 133,
+    "party": "R"
+  },
+  {
+    "district": 134,
+    "party": "D"
+  },
+  {
+    "district": 135,
+    "party": "D"
+  },
+  {
+    "district": 136,
+    "party": "D"
+  },
+  {
+    "district": 137,
+    "party": "D"
+  },
+  {
+    "district": 138,
+    "party": "R"
+  },
+  {
+    "district": 139,
+    "party": "D"
+  },
+  {
+    "district": 140,
+    "party": "D"
+  },
+  {
+    "district": 141,
+    "party": "D"
+  },
+  {
+    "district": 142,
+    "party": "D"
+  },
+  {
+    "district": 143,
+    "party": "D"
+  },
+  {
+    "district": 144,
+    "party": "D"
+  },
+  {
+    "district": 145,
+    "party": "D"
+  },
+  {
+    "district": 146,
+    "party": "D"
+  },
+  {
+    "district": 147,
+    "party": "D"
+  },
+  {
+    "district": 148,
+    "party": "D"
+  },
+  {
+    "district": 149,
+    "party": "D"
+  },
+  {
+    "district": 150,
+    "party": "R"
+  }
+]

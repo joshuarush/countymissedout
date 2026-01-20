@@ -1,38 +1,528 @@
 .App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
   min-height: 100vh;
+  background: radial-gradient(circle at top, rgba(74, 144, 226, 0.18), transparent 45%),
+    radial-gradient(circle at 20% 20%, rgba(188, 24, 35, 0.2), transparent 35%),
+    #0f1217;
+  color: var(--text-color);
+  position: relative;
+  overflow: hidden;
+}
+
+main {
+  position: relative;
+  z-index: 1;
+}
+
+.background-orb {
+  position: absolute;
+  border-radius: 50%;
+  filter: blur(70px);
+  opacity: 0.35;
+  z-index: 0;
+}
+
+.orb-one {
+  width: 420px;
+  height: 420px;
+  background: #4a90e2;
+  top: -160px;
+  right: -120px;
+}
+
+.orb-two {
+  width: 320px;
+  height: 320px;
+  background: #bc1823;
+  bottom: 200px;
+  left: -140px;
+}
+
+.orb-three {
+  width: 280px;
+  height: 280px;
+  background: #f3b761;
+  bottom: -160px;
+  right: 10%;
+}
+
+.hero {
+  padding: 5.5rem 8vw 4rem;
+  position: relative;
+  z-index: 1;
+}
+
+.hero-inner {
+  max-width: 780px;
+}
+
+.eyebrow {
+  text-transform: uppercase;
+  letter-spacing: 0.3rem;
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--accent-color);
+  margin-bottom: 1.5rem;
+}
+
+.hero h1 {
+  font-family: var(--headline-font);
+  font-size: clamp(2.5rem, 5vw, 4.2rem);
+  line-height: 1.1;
+  margin: 0 0 1.5rem;
+}
+
+.hero-emphasis {
+  color: var(--action-color);
+  display: block;
+}
+
+.hero-subtext {
+  font-size: 1.1rem;
+  max-width: 560px;
+  color: var(--muted-color);
+  margin-bottom: 2rem;
+}
+
+.hero-actions {
   display: flex;
-  flex-direction: column;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.cta-button,
+.ghost-button {
+  display: inline-flex;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  padding: 0.85rem 1.6rem;
+  border-radius: 999px;
+  font-weight: 600;
+  border: 1px solid transparent;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
+  text-decoration: none;
+  cursor: pointer;
 }
 
-.App-link {
-  color: #61dafb;
+.cta-button {
+  background: linear-gradient(120deg, #bc1823, #f06d4f);
+  color: #fff;
+  box-shadow: 0 12px 30px rgba(188, 24, 35, 0.3);
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+.cta-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 20px 35px rgba(188, 24, 35, 0.35);
+}
+
+.cta-button:disabled {
+  cursor: not-allowed;
+  opacity: 0.6;
+  box-shadow: none;
+}
+
+.ghost-button {
+  background: rgba(255, 255, 255, 0.05);
+  color: var(--text-color);
+  border-color: rgba(255, 255, 255, 0.25);
+}
+
+.ghost-button:hover {
+  transform: translateY(-2px);
+  border-color: rgba(255, 255, 255, 0.5);
+}
+
+.lookup-section {
+  padding: 0 8vw 4rem;
+}
+
+.lookup-grid {
+  display: grid;
+  grid-template-columns: minmax(260px, 1fr) minmax(320px, 1.2fr);
+  gap: 2.5rem;
+  align-items: start;
+}
+
+.search-container {
+  background: var(--glass-bg);
+  border: 1px solid var(--glass-border);
+  border-radius: 20px;
+  padding: 2rem;
+  box-shadow: var(--shadow);
+}
+
+.search-label {
+  display: block;
+  font-family: var(--headline-font);
+  font-size: 1.4rem;
+  margin-bottom: 1rem;
+}
+
+.input-wrapper {
+  background: rgba(0, 0, 0, 0.35);
+  padding: 0.6rem;
+  border-radius: 14px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.search-input {
+  width: 100%;
+  border: none;
+  background: transparent;
+  color: var(--text-color);
+  font-size: 1rem;
+  padding: 0.6rem 0.8rem;
+  outline: none;
+}
+
+.autofill-container {
+  margin-top: 1rem;
+  display: grid;
+  gap: 0.5rem;
+}
+
+.autofill-option {
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  color: var(--text-color);
+  padding: 0.65rem 0.9rem;
+  border-radius: 12px;
+  cursor: pointer;
+  text-align: left;
+  font-family: var(--body-font);
+  transition: border-color 0.2s ease, transform 0.2s ease;
+}
+
+.autofill-option:hover {
+  border-color: var(--accent-color);
+  transform: translateY(-2px);
+}
+
+.county-detail {
+  background: var(--glass-bg);
+  border: 1px solid var(--glass-border);
+  border-radius: 20px;
+  padding: 2rem;
+  box-shadow: var(--shadow);
+}
+
+.county-detail.empty {
+  color: var(--muted-color);
+}
+
+.county-status h2 {
+  margin: 0 0 0.75rem;
+  font-size: 1.8rem;
+}
+
+.county-status span {
+  color: var(--accent-color);
+}
+
+.county-status.no-schools span {
+  color: var(--action-color);
+}
+
+.county-schools {
+  margin-top: 2rem;
+}
+
+.school-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+  margin: 1rem 0;
+}
+
+.school-card {
+  padding: 1rem;
+  border-radius: 16px;
+  background: rgba(15, 18, 23, 0.7);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.school-card h4 {
+  margin: 0 0 0.4rem;
+  font-size: 1rem;
+}
+
+.school-card p {
+  margin: 0;
+  color: var(--muted-color);
+  font-size: 0.9rem;
+}
+
+.school-meta {
+  margin-top: 0.5rem;
+  color: var(--accent-color);
+}
+
+.stats-section {
+  padding: 4rem 8vw;
+}
+
+.section-heading {
+  max-width: 640px;
+  margin-bottom: 2rem;
+}
+
+.section-heading h2 {
+  font-family: var(--headline-font);
+  font-size: 2.2rem;
+  margin: 0 0 0.75rem;
+}
+
+.section-heading p {
+  color: var(--muted-color);
+  margin: 0;
+}
+
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.5rem;
+}
+
+.stat-card {
+  padding: 1.5rem;
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 18px;
+  box-shadow: var(--shadow);
+}
+
+.stat-value {
+  font-family: var(--headline-font);
+  font-size: 2rem;
+  color: var(--accent-color);
+}
+
+.stat-label {
+  margin: 0.5rem 0 0;
+  color: var(--muted-color);
+}
+
+.map-section {
+  padding: 4rem 8vw;
+}
+
+.map-wrapper {
+  background: rgba(10, 12, 15, 0.6);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 24px;
+  padding: 1.5rem;
+  overflow: hidden;
+  box-shadow: var(--shadow);
+}
+
+.texas-map {
+  width: 100%;
+  height: auto;
+}
+
+.texas-map path {
+  cursor: pointer;
+  transition: fill 0.2s ease, stroke 0.2s ease;
+  stroke: rgba(255, 255, 255, 0.3);
+  stroke-width: 0.6;
+}
+
+.texas-map path.has-schools {
+  fill: var(--accent-color);
+}
+
+.texas-map path.no-schools {
+  fill: var(--county-empty);
+}
+
+.texas-map path.is-selected {
+  fill: var(--action-color);
+  stroke: #fff;
+  stroke-width: 1.2;
+}
+
+.texas-map path:hover {
+  stroke: #fff;
+  stroke-width: 1.2;
+}
+
+.map-legend {
+  display: flex;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  margin-top: 1.5rem;
+  color: var(--muted-color);
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.legend-swatch {
+  width: 16px;
+  height: 16px;
+  border-radius: 4px;
+  background: var(--county-empty);
+  display: inline-block;
+}
+
+.legend-swatch.has-schools {
+  background: var(--accent-color);
+}
+
+.legend-swatch.no-schools {
+  background: var(--county-empty);
+}
+
+.legend-swatch.is-selected {
+  background: var(--action-color);
+}
+
+.map-status {
+  margin-top: 1.5rem;
+  color: var(--muted-color);
+}
+
+.info-section {
+  padding: 4rem 8vw;
+}
+
+.info-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1.5rem;
+}
+
+.info-card {
+  background: var(--glass-bg);
+  border: 1px solid var(--glass-border);
+  border-radius: 20px;
+  padding: 1.8rem;
+  box-shadow: var(--shadow);
+}
+
+.info-card h3 {
+  margin-top: 0;
+}
+
+.comparison-section {
+  padding: 3rem 8vw;
+}
+
+.comparison-card {
+  background: linear-gradient(120deg, rgba(74, 144, 226, 0.15), rgba(188, 24, 35, 0.2));
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 24px;
+  padding: 2.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  align-items: center;
+  justify-content: space-between;
+  box-shadow: var(--shadow);
+}
+
+.representative-section {
+  padding: 4rem 8vw 5rem;
+}
+
+.representative-card {
+  background: var(--glass-bg);
+  border: 1px solid var(--glass-border);
+  border-radius: 24px;
+  padding: 2.5rem;
+  box-shadow: var(--shadow);
+}
+
+.representative-card form {
+  display: grid;
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.representative-input {
+  background: rgba(0, 0, 0, 0.4);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 12px;
+  padding: 0.8rem 1rem;
+  color: var(--text-color);
+  font-size: 1rem;
+}
+
+.rep-actions {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin: 1.5rem 0;
+}
+
+.script-container {
+  margin-top: 1.5rem;
+  padding: 1.2rem;
+  border-radius: 16px;
+  background: rgba(0, 0, 0, 0.35);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.script-container h3 {
+  margin-top: 0;
+}
+
+.form-error {
+  color: var(--action-color);
+  margin-top: 1rem;
+}
+
+.verification-link {
+  margin-top: 1.5rem;
+}
+
+.verification-link a {
+  color: var(--accent-color);
+}
+
+.site-footer {
+  padding: 3rem 8vw 4rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+  display: grid;
+  gap: 1.5rem;
+  color: var(--muted-color);
+  position: relative;
+  z-index: 1;
+}
+
+.site-footer h3 {
+  color: var(--text-color);
+  margin: 0 0 0.5rem;
+}
+
+.footer-small {
+  font-size: 0.85rem;
+}
+
+@media (max-width: 900px) {
+  .lookup-grid {
+    grid-template-columns: 1fr;
   }
-  to {
-    transform: rotate(360deg);
+
+  .comparison-card {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
+
+@media (max-width: 600px) {
+  .hero {
+    padding: 4.5rem 6vw 3rem;
+  }
+
+  .stats-section,
+  .map-section,
+  .info-section,
+  .comparison-section,
+  .representative-section {
+    padding-left: 6vw;
+    padding-right: 6vw;
   }
 }
