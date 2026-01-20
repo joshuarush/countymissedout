@@ -385,20 +385,48 @@ main {
   stroke-width: 0.6;
 }
 
-.texas-map path.map-bucket-none {
-  fill: var(--action-color);
+.texas-map path.map-bucket-0 {
+  fill: #c81e2b;
 }
 
-.texas-map path.map-bucket-scarce {
-  fill: rgba(245, 242, 234, 0.12);
+.texas-map path.map-bucket-1 {
+  fill: #b71a25;
 }
 
-.texas-map path.map-bucket-low {
-  fill: rgba(245, 242, 234, 0.22);
+.texas-map path.map-bucket-2 {
+  fill: #a31521;
 }
 
-.texas-map path.map-bucket-concentrated {
-  fill: rgba(74, 144, 226, 0.55);
+.texas-map path.map-bucket-3 {
+  fill: #8f121d;
+}
+
+.texas-map path.map-bucket-4 {
+  fill: #7b1019;
+}
+
+.texas-map path.map-bucket-5 {
+  fill: #670d15;
+}
+
+.texas-map path.map-bucket-6 {
+  fill: #530a11;
+}
+
+.texas-map path.map-bucket-7 {
+  fill: #40080d;
+}
+
+.texas-map path.map-bucket-8 {
+  fill: #2c0509;
+}
+
+.texas-map path.map-bucket-9 {
+  fill: #180305;
+}
+
+.texas-map path.map-bucket-10plus {
+  fill: #050505;
 }
 
 .texas-map path.is-selected {
@@ -426,6 +454,24 @@ main {
   gap: 0.5rem;
 }
 
+.legend-heatbar {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.6rem;
+}
+
+.legend-label {
+  font-size: 0.85rem;
+  color: var(--muted-color);
+}
+
+.heatbar {
+  display: grid;
+  grid-template-columns: repeat(11, 16px);
+  gap: 4px;
+  align-items: center;
+}
+
 .legend-swatch {
   width: 16px;
   height: 16px;
@@ -434,20 +480,48 @@ main {
   display: inline-block;
 }
 
-.legend-swatch.map-bucket-none {
-  background: var(--action-color);
+.legend-swatch.map-bucket-0 {
+  background: #c81e2b;
 }
 
-.legend-swatch.map-bucket-scarce {
-  background: rgba(245, 242, 234, 0.18);
+.legend-swatch.map-bucket-1 {
+  background: #b71a25;
 }
 
-.legend-swatch.map-bucket-low {
-  background: rgba(245, 242, 234, 0.3);
+.legend-swatch.map-bucket-2 {
+  background: #a31521;
 }
 
-.legend-swatch.map-bucket-concentrated {
-  background: rgba(74, 144, 226, 0.6);
+.legend-swatch.map-bucket-3 {
+  background: #8f121d;
+}
+
+.legend-swatch.map-bucket-4 {
+  background: #7b1019;
+}
+
+.legend-swatch.map-bucket-5 {
+  background: #670d15;
+}
+
+.legend-swatch.map-bucket-6 {
+  background: #530a11;
+}
+
+.legend-swatch.map-bucket-7 {
+  background: #40080d;
+}
+
+.legend-swatch.map-bucket-8 {
+  background: #2c0509;
+}
+
+.legend-swatch.map-bucket-9 {
+  background: #180305;
+}
+
+.legend-swatch.map-bucket-10plus {
+  background: #050505;
 }
 
 .legend-swatch.is-selected {
