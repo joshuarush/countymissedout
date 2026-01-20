@@ -116,7 +116,6 @@ const CountyDetail = ({ county, schools, privateCount, neighborCounty, neighborC
         <div className="private-meta">
           <p className="private-metric">{privateSummary.primary}</p>
           {privateSummary.secondary && <p className="private-secondary">{privateSummary.secondary}</p>}
-          <p className="private-note">Private school counts come from accredited private school listings.</p>
         </div>
       )}
       {(neighborSummary || rankSummary) && (

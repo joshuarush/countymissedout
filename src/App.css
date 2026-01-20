@@ -250,12 +250,6 @@ main {
   color: var(--text-color);
 }
 
-.private-note {
-  margin-top: 0.5rem;
-  font-size: 0.85rem;
-  color: rgba(194, 198, 209, 0.8);
-}
-
 .comparison-meta {
   margin-top: 1.2rem;
   padding: 1.2rem 1.4rem;
